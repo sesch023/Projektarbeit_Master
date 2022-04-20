@@ -1,6 +1,6 @@
 ﻿namespace MapDrawer
 {
-    public interface Drawable
+    public interface IDrawable
     {
         public void Draw();
     }

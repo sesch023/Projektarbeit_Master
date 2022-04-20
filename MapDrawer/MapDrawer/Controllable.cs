@@ -2,6 +2,6 @@
 {
     public interface Controllable
     {
-        public void Control();
+        public void Contol();
     }
 }
