@@ -35,3 +35,5 @@ C:\Users\Sebastian\Desktop\Projektarbeit_Master\MapDrawer\MapDrawer\obj\Debug\ne
 C:\Users\Sebastian\Desktop\Projektarbeit_Master\MapDrawer\MapDrawer\obj\Debug\netcoreapp3.1\MapDrawer.dll
 C:\Users\Sebastian\Desktop\Projektarbeit_Master\MapDrawer\MapDrawer\obj\Debug\netcoreapp3.1\MapDrawer.pdb
 C:\Users\Sebastian\Desktop\Projektarbeit_Master\MapDrawer\MapDrawer\obj\Debug\netcoreapp3.1\MapDrawer.genruntimeconfig.cache
+C:\Users\Sebastian\Desktop\Projektarbeit_Master\MapDrawer\MapDrawer\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Sebastian\Desktop\Projektarbeit_Master\MapDrawer\MapDrawer\bin\Debug\netcoreapp3.1\NLog.config

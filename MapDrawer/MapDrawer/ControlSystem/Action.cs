@@ -14,33 +14,49 @@ namespace MapDrawer.ControlSystem
 
     public class KeyAction : UpdatableEvent
     {
-        protected Keys Key;
-        protected Type Type;
+        private readonly Keys _key;
+        private readonly Type _type;
 
-        private bool _wasPressed = false;
+        private bool _wasHold;
 
-        public delegate bool CheckType(KeyAction keyAction);
+        private delegate bool CheckType(KeyAction keyAction);
 
-        private static Dictionary<Type, CheckType> TypeDelegate;
+        private static readonly Dictionary<Type, CheckType> TypeDelegate;
 
         static KeyAction()
         {
             TypeDelegate = new Dictionary<Type, CheckType>();
-            TypeDelegate[Type.KeyHold] = CheckKeyHold;
-            TypeDelegate[Type.KeyDown] = CheckKeyDown;
-            TypeDelegate[Type.KeyUp] = CheckKeyUp;
-            TypeDelegate[Type.KeyNotHold] = CheckKeyNotHold;
+            TypeDelegate[Type.KeyHold] = (keyAction) => { 
+                keyAction._wasHold = CheckKeyHold(keyAction);
+                return keyAction._wasHold;
+            };
+            TypeDelegate[Type.KeyDown] = (keyAction) => { 
+                bool down = CheckKeyHold(keyAction);
+                bool ret = !keyAction._wasHold && down;
+                keyAction._wasHold = down;
+                return ret;
+            };
+            TypeDelegate[Type.KeyUp] = (keyAction) => { 
+                bool up = !CheckKeyHold(keyAction);
+                bool ret = keyAction._wasHold && up;
+                keyAction._wasHold = !up;
+                return ret;
+            };
+            TypeDelegate[Type.KeyNotHold] = (keyAction) => { 
+                keyAction._wasHold = CheckKeyHold(keyAction);
+                return !keyAction._wasHold;
+            };
         }
 
         public KeyAction(Keys key, Type type)
         {
-            Type = type;
-            Key = key;
+            _type = type;
+            _key = key;
         }
         
         public override void Update()
         {
-            if (TypeDelegate[Type](this))
+            if (TypeDelegate[_type](this))
             {
                 TriggerSubscribers();
             }
@@ -48,22 +64,7 @@ namespace MapDrawer.ControlSystem
 
         private static bool CheckKeyHold(KeyAction keyAction)
         {
-            return Keyboard.GetState().IsKeyDown(keyAction.Key);
-        }
-        
-        private static bool CheckKeyNotHold(KeyAction keyAction)
-        {
-            return !CheckKeyHold(keyAction);
-        }
-
-        private static bool CheckKeyDown(KeyAction keyAction)
-        {
-            return CheckKeyHold(keyAction) && !keyAction._wasPressed;
-        }
-        
-        private static bool CheckKeyUp(KeyAction keyAction)
-        {
-            return CheckKeyNotHold(keyAction) && keyAction._wasPressed;
+            return Keyboard.GetState().IsKeyDown(keyAction._key);
         }
     }
 }

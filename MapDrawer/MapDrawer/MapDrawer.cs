@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Windows.Forms.VisualStyles;
+using MapDrawer.ManagerSystem;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
@@ -75,7 +76,8 @@ namespace MapDrawer
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed ||
                 Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
-
+            
+            TimeManager.Instance.Update();
             // TODO: Add your update logic here
 
             base.Update(gameTime);
