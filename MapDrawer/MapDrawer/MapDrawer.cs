@@ -78,7 +78,6 @@ namespace MapDrawer
                 Exit();
             
             TimeManager.Instance.Update();
-            // TODO: Add your update logic here
 
             base.Update(gameTime);
         }
@@ -88,7 +87,7 @@ namespace MapDrawer
             GraphicsDevice.Clear(Color.CornflowerBlue);
             
             _spriteBatch.Begin();
-            
+            /*
             for(var x = 0; x < sizeX; x++)
             {
                 for (var y = 0; y < sizeY; y++)
@@ -97,6 +96,8 @@ namespace MapDrawer
                                       _colormap[x, y]);
                 }
             }
+            */
+            
             _spriteBatch.End();
             
             // TODO: Add your drawing code here

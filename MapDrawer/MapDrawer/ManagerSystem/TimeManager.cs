@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Drawing.Printing;
 using MapDrawer.EventSystem;
+using MapDrawer.Util;
 
 namespace MapDrawer.ManagerSystem
 {
@@ -10,10 +12,16 @@ namespace MapDrawer.ManagerSystem
 
         private readonly Stopwatch _timer;
         public long PassedTime => _timer.ElapsedMilliseconds;
-
         public long PassedTicks { get; private set; } = 0;
+        public long LastTickTime { get; private set; } = 0;
 
-        private uint _tps = 1;
+        private uint _tps = 20;
+        // Count Tick at this percent of the Delta Milli.
+        private const double MinDeltaRatio = 0.8;
+
+        protected long SecondLastTickTime = 0;
+        private long _tpsDeltaMilli;
+
         public uint Tps
         {
             get => _tps;
@@ -23,38 +31,49 @@ namespace MapDrawer.ManagerSystem
                 _tpsDeltaMilli = CalculateMilliDelta();
             }
         }
-        
-        private long _tpsDeltaMilli;
-        private long _lastTickTime;
 
         static TimeManager()
         {
-            Instance = new TimeManager();
+            Instance = LoggingManager.EnableDebugMode ? new VerboseTimeManager() : new TimeManager();
         }
 
-        private TimeManager()
+        protected TimeManager()
         {
             _timer = new Stopwatch();
             _tpsDeltaMilli = CalculateMilliDelta();
-            _lastTickTime = 0;
             PassedTicks = 0;
             _timer.Start();
         }
 
         private long CalculateMilliDelta()
         {
-            return 60000 / _tps;
+            return (long)((1000.0 / _tps) * MinDeltaRatio);
         }
 
-        public void Update()
+        public virtual void Update()
         {
-            long time = PassedTime;
-            if (_lastTickTime + _tpsDeltaMilli >= time)
+            var time = PassedTime;
+            if (time >= LastTickTime + _tpsDeltaMilli)
             {
                 PassedTicks++;
-                _lastTickTime = time;
-                LoggingManager.Instance.Info(PassedTicks);
+                SecondLastTickTime = LastTickTime;
+                LastTickTime = time;
             }
+        }
+
+        public long TicksPassedSince(long since)
+        {
+            return PassedTicks - since;
+        }
+
+        public long TimePassedSince(long since)
+        {
+            return PassedTime - since;
+        }
+
+        public override string ToString()
+        {
+            return "Tick Number: " + PassedTicks;
         }
     }
 }

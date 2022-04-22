@@ -2,7 +2,7 @@
 
 namespace MapDrawer.EventSystem
 {
-    public abstract class Event
+    public abstract class Event : IEvent
     {
         private readonly List<ISubscriber> _subscribers;
 

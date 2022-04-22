@@ -1,0 +1,1111 @@
+2022-04-22 11:32:55.5604|INFO|MapDrawer.ManagerSystem.LoggingManager|Hello World
+2022-04-22 11:32:55.9257|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1
+2022-04-22 11:32:55.9257|INFO|MapDrawer.ManagerSystem.LoggingManager|Average Tick Time: 106
+2022-04-22 11:32:56.0468|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2
+2022-04-22 11:32:56.0468|INFO|MapDrawer.ManagerSystem.LoggingManager|Average Tick Time: 115
+2022-04-22 11:32:56.1543|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3
+2022-04-22 11:32:56.1543|INFO|MapDrawer.ManagerSystem.LoggingManager|Average Tick Time: 112
+2022-04-22 11:32:56.2541|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4
+2022-04-22 11:32:56.2541|INFO|MapDrawer.ManagerSystem.LoggingManager|Average Tick Time: 109
+2022-04-22 11:32:56.3577|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 5
+2022-04-22 11:32:56.3577|INFO|MapDrawer.ManagerSystem.LoggingManager|Average Tick Time: 108
+2022-04-22 11:32:56.4587|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 6
+2022-04-22 11:32:56.4587|INFO|MapDrawer.ManagerSystem.LoggingManager|Average Tick Time: 107
+2022-04-22 11:32:56.5879|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 7
+2022-04-22 11:32:56.5879|INFO|MapDrawer.ManagerSystem.LoggingManager|Average Tick Time: 110
+2022-04-22 13:00:49.1249|INFO|MapDrawer.ManagerSystem.LoggingManager|Hello World
+2022-04-22 13:00:49.4010|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 0, Average MS per Tick: 0
+2022-04-22 13:00:49.4314|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 0, Average MS per Tick: 0
+2022-04-22 13:00:49.4314|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 0, Average MS per Tick: 0
+2022-04-22 13:00:49.4638|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 0, Average MS per Tick: 0
+2022-04-22 13:00:49.4638|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 0, Average MS per Tick: 0
+2022-04-22 13:00:49.4827|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 0, Average MS per Tick: 0
+2022-04-22 13:00:49.5013|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 14,285714285714285714285714286
+2022-04-22 13:00:49.5162|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 25
+2022-04-22 13:00:49.5336|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 33,333333333333333333333333333
+2022-04-22 13:00:49.5509|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 40
+2022-04-22 13:00:49.5670|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 45,454545454545454545454545455
+2022-04-22 13:00:49.5823|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 50
+2022-04-22 13:00:49.5988|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 53,846153846153846153846153846
+2022-04-22 13:00:49.6154|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2, Average MS per Tick: 58,214285714285714285714285714
+2022-04-22 13:00:49.6318|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2, Average MS per Tick: 62
+2022-04-22 13:00:49.6495|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2, Average MS per Tick: 65,3125
+2022-04-22 13:00:49.6652|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2, Average MS per Tick: 68,235294117647058823529411765
+2022-04-22 13:00:49.6829|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2, Average MS per Tick: 70,833333333333333333333333333
+2022-04-22 13:00:49.6984|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2, Average MS per Tick: 73,157894736842105263157894737
+2022-04-22 13:00:49.7163|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3, Average MS per Tick: 74,55
+2022-04-22 13:00:49.7325|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3, Average MS per Tick: 75,80952380952380952380952381
+2022-04-22 13:00:49.7473|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3, Average MS per Tick: 76,954545454545454545454545455
+2022-04-22 13:00:49.7640|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3, Average MS per Tick: 78
+2022-04-22 13:00:49.7805|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3, Average MS per Tick: 78,958333333333333333333333333
+2022-04-22 13:00:49.7976|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3, Average MS per Tick: 79,84
+2022-04-22 13:00:49.8156|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3, Average MS per Tick: 80,65384615384615384615384615
+2022-04-22 13:00:49.8315|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4, Average MS per Tick: 81,92592592592592592592592593
+2022-04-22 13:00:49.8474|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4, Average MS per Tick: 83,10714285714285714285714286
+2022-04-22 13:00:49.8639|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4, Average MS per Tick: 84,20689655172413793103448276
+2022-04-22 13:00:49.8803|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4, Average MS per Tick: 85,23333333333333333333333333
+2022-04-22 13:00:49.8972|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4, Average MS per Tick: 86,1935483870967741935483871
+2022-04-22 13:00:49.9144|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4, Average MS per Tick: 87,09375
+2022-04-22 13:00:49.9303|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4, Average MS per Tick: 87,93939393939393939393939394
+2022-04-22 13:00:49.9482|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 5, Average MS per Tick: 88,79411764705882352941176471
+2022-04-22 13:00:49.9482|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 5, Average MS per Tick: 89,6
+2022-04-22 13:00:49.9805|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 5, Average MS per Tick: 90,36111111111111111111111111
+2022-04-22 13:00:49.9980|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 5, Average MS per Tick: 91,08108108108108108108108108
+2022-04-22 13:00:50.0144|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 5, Average MS per Tick: 91,76315789473684210526315789
+2022-04-22 13:00:50.0307|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 5, Average MS per Tick: 92,41025641025641025641025641
+2022-04-22 13:00:50.0473|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 5, Average MS per Tick: 93,025
+2022-04-22 13:00:50.0636|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 6, Average MS per Tick: 93,56097560975609756097560976
+2022-04-22 13:00:50.0811|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 6, Average MS per Tick: 94,07142857142857142857142857
+2022-04-22 13:00:50.0966|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 6, Average MS per Tick: 94,55813953488372093023255814
+2022-04-22 13:00:50.1134|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 6, Average MS per Tick: 95,02272727272727272727272727
+2022-04-22 13:00:50.1298|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 6, Average MS per Tick: 95,46666666666666666666666667
+2022-04-22 13:00:50.1470|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 6, Average MS per Tick: 95,89130434782608695652173913
+2022-04-22 13:00:50.1646|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 7, Average MS per Tick: 96
+2022-04-22 13:00:50.1804|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 7, Average MS per Tick: 96,10416666666666666666666667
+2022-04-22 13:00:50.1967|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 7, Average MS per Tick: 96,20408163265306122448979592
+2022-04-22 13:00:50.2133|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 7, Average MS per Tick: 96,3
+2022-04-22 13:00:50.2133|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 7, Average MS per Tick: 98,32
+2022-04-22 13:00:50.2468|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 7, Average MS per Tick: 100,34
+2022-04-22 13:00:50.2645|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 8, Average MS per Tick: 102,34
+2022-04-22 13:00:50.2803|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 8, Average MS per Tick: 104,34
+2022-04-22 13:00:50.2995|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 8, Average MS per Tick: 106,34
+2022-04-22 13:00:50.2995|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 8, Average MS per Tick: 108,34
+2022-04-22 13:00:50.3301|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 8, Average MS per Tick: 108,34
+2022-04-22 13:00:50.3469|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 8, Average MS per Tick: 108,34
+2022-04-22 13:00:50.3634|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 8, Average MS per Tick: 108,34
+2022-04-22 13:00:50.3803|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 9, Average MS per Tick: 108,66
+2022-04-22 13:00:50.3969|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 9, Average MS per Tick: 108,98
+2022-04-22 13:00:50.4139|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 9, Average MS per Tick: 109,3
+2022-04-22 13:00:50.4301|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 9, Average MS per Tick: 109,62
+2022-04-22 13:00:50.4468|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 9, Average MS per Tick: 109,64
+2022-04-22 13:00:50.4635|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 9, Average MS per Tick: 109,66
+2022-04-22 13:00:50.4801|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 10, Average MS per Tick: 109,36
+2022-04-22 13:00:50.4969|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 10, Average MS per Tick: 109,06
+2022-04-22 13:00:50.5136|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 10, Average MS per Tick: 108,76
+2022-04-22 13:00:50.5299|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 10, Average MS per Tick: 108,46
+2022-04-22 13:00:50.5468|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 10, Average MS per Tick: 108,44
+2022-04-22 13:00:50.5636|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 10, Average MS per Tick: 108,42
+2022-04-22 13:00:50.5801|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 11, Average MS per Tick: 108,4
+2022-04-22 13:00:50.5968|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 11, Average MS per Tick: 108,38
+2022-04-22 13:00:50.6134|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 11, Average MS per Tick: 108,36
+2022-04-22 13:00:50.6300|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 11, Average MS per Tick: 108,34
+2022-04-22 13:00:50.6468|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 11, Average MS per Tick: 108,32
+2022-04-22 13:00:50.6632|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 11, Average MS per Tick: 108,02
+2022-04-22 13:00:50.6797|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 11, Average MS per Tick: 107,72
+2022-04-22 13:00:50.6966|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 12, Average MS per Tick: 107,74
+2022-04-22 13:00:50.7130|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 12, Average MS per Tick: 107,76
+2022-04-22 13:00:50.7296|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 12, Average MS per Tick: 107,78
+2022-04-22 13:00:50.7466|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 12, Average MS per Tick: 107,8
+2022-04-22 13:00:50.7636|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 12, Average MS per Tick: 107,82
+2022-04-22 13:00:50.7800|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 12, Average MS per Tick: 107,8
+2022-04-22 13:00:53.5305|INFO|MapDrawer.ManagerSystem.LoggingManager|Hello World
+2022-04-22 13:00:53.7705|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 0, Average MS per Tick: 0
+2022-04-22 13:00:53.7999|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 0, Average MS per Tick: 0
+2022-04-22 13:00:53.7999|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 0, Average MS per Tick: 0
+2022-04-22 13:00:53.8236|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 0, Average MS per Tick: 0
+2022-04-22 13:00:53.8236|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 0, Average MS per Tick: 0
+2022-04-22 13:00:53.8504|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 0, Average MS per Tick: 0
+2022-04-22 13:00:53.8661|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 0, Average MS per Tick: 0
+2022-04-22 13:00:53.8830|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 14
+2022-04-22 13:00:53.8989|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 24,888888888888888888888888889
+2022-04-22 13:00:53.9148|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 33,6
+2022-04-22 13:00:53.9315|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 40,727272727272727272727272727
+2022-04-22 13:00:53.9490|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 46,666666666666666666666666667
+2022-04-22 13:00:53.9652|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 51,692307692307692307692307692
+2022-04-22 13:00:53.9816|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2, Average MS per Tick: 55,142857142857142857142857143
+2022-04-22 13:00:53.9979|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2, Average MS per Tick: 58,133333333333333333333333333
+2022-04-22 13:00:54.0152|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2, Average MS per Tick: 60,75
+2022-04-22 13:00:54.0316|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2, Average MS per Tick: 63,058823529411764705882352941
+2022-04-22 13:00:54.0493|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2, Average MS per Tick: 65,111111111111111111111111111
+2022-04-22 13:00:54.0650|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2, Average MS per Tick: 66,947368421052631578947368421
+2022-04-22 13:00:54.0814|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2, Average MS per Tick: 68,6
+2022-04-22 13:00:54.0969|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3, Average MS per Tick: 70,80952380952380952380952381
+2022-04-22 13:00:54.1136|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3, Average MS per Tick: 72,818181818181818181818181818
+2022-04-22 13:00:54.1301|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3, Average MS per Tick: 74,652173913043478260869565217
+2022-04-22 13:00:54.1469|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3, Average MS per Tick: 76,333333333333333333333333333
+2022-04-22 13:00:54.1636|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3, Average MS per Tick: 77,88
+2022-04-22 13:00:54.1803|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3, Average MS per Tick: 79,30769230769230769230769231
+2022-04-22 13:00:54.1972|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4, Average MS per Tick: 80,07407407407407407407407407
+2022-04-22 13:00:54.2140|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4, Average MS per Tick: 80,78571428571428571428571429
+2022-04-22 13:00:54.2140|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4, Average MS per Tick: 81,44827586206896551724137931
+2022-04-22 13:00:54.2469|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4, Average MS per Tick: 82,06666666666666666666666667
+2022-04-22 13:00:54.2469|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4, Average MS per Tick: 82,64516129032258064516129032
+2022-04-22 13:00:54.2802|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4, Average MS per Tick: 83,1875
+2022-04-22 13:00:54.2965|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 5, Average MS per Tick: 83,6969696969696969696969697
+2022-04-22 13:00:54.3134|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 5, Average MS per Tick: 84,17647058823529411764705882
+2022-04-22 13:00:54.3304|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 5, Average MS per Tick: 84,62857142857142857142857143
+2022-04-22 13:00:54.3734|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 5, Average MS per Tick: 85,05555555555555555555555556
+2022-04-22 13:00:54.3734|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 5, Average MS per Tick: 85,45945945945945945945945946
+2022-04-22 13:04:17.7183|INFO|MapDrawer.ManagerSystem.LoggingManager|Hello World
+2022-04-22 13:04:17.9601|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 0, Average MS per Tick: 0, Target Tick Time: 1
+2022-04-22 13:04:17.9903|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 15,5, Target Tick Time: 1
+2022-04-22 13:04:17.9903|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 20,666666666666666666666666667, Target Tick Time: 1
+2022-04-22 13:04:18.0158|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2, Average MS per Tick: 21,75, Target Tick Time: 1
+2022-04-22 13:04:18.0158|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3, Average MS per Tick: 17,6, Target Tick Time: 1
+2022-04-22 13:04:18.0349|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4, Average MS per Tick: 17,666666666666666666666666667, Target Tick Time: 1
+2022-04-22 13:04:18.0510|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 5, Average MS per Tick: 17,428571428571428571428571429, Target Tick Time: 1
+2022-04-22 13:04:18.0670|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 6, Average MS per Tick: 17,25, Target Tick Time: 1
+2022-04-22 13:04:18.0840|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 7, Average MS per Tick: 17,222222222222222222222222222, Target Tick Time: 1
+2022-04-22 13:04:18.1016|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 8, Average MS per Tick: 17,3, Target Tick Time: 1
+2022-04-22 13:04:18.1172|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 9, Average MS per Tick: 17,181818181818181818181818182, Target Tick Time: 1
+2022-04-22 13:04:18.1330|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 10, Average MS per Tick: 17, Target Tick Time: 1
+2022-04-22 13:04:18.1496|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 11, Average MS per Tick: 17, Target Tick Time: 1
+2022-04-22 13:04:18.1663|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 12, Average MS per Tick: 17, Target Tick Time: 1
+2022-04-22 13:04:18.1838|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 13, Average MS per Tick: 17, Target Tick Time: 1
+2022-04-22 13:04:18.1996|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 14, Average MS per Tick: 16,9375, Target Tick Time: 1
+2022-04-22 13:04:18.2168|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 15, Average MS per Tick: 16,941176470588235294117647059, Target Tick Time: 1
+2022-04-22 13:04:18.2329|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 16, Average MS per Tick: 16,888888888888888888888888889, Target Tick Time: 1
+2022-04-22 13:04:18.2501|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 17, Average MS per Tick: 16,894736842105263157894736842, Target Tick Time: 1
+2022-04-22 13:04:18.2664|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 18, Average MS per Tick: 16,9, Target Tick Time: 1
+2022-04-22 13:04:18.2819|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 19, Average MS per Tick: 16,80952380952380952380952381, Target Tick Time: 1
+2022-04-22 13:04:18.2984|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 20, Average MS per Tick: 16,818181818181818181818181818, Target Tick Time: 1
+2022-04-22 13:04:18.3149|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 21, Average MS per Tick: 16,782608695652173913043478261, Target Tick Time: 1
+2022-04-22 13:04:18.3315|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 22, Average MS per Tick: 16,791666666666666666666666667, Target Tick Time: 1
+2022-04-22 13:04:18.3482|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 23, Average MS per Tick: 16,8, Target Tick Time: 1
+2022-04-22 13:04:18.3649|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 24, Average MS per Tick: 16,769230769230769230769230769, Target Tick Time: 1
+2022-04-22 13:04:18.3820|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 25, Average MS per Tick: 16,777777777777777777777777778, Target Tick Time: 1
+2022-04-22 13:04:18.3992|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 26, Average MS per Tick: 16,821428571428571428571428571, Target Tick Time: 1
+2022-04-22 13:04:18.3992|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 27, Average MS per Tick: 16,758620689655172413793103448, Target Tick Time: 1
+2022-04-22 13:04:18.4319|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 28, Average MS per Tick: 16,766666666666666666666666667, Target Tick Time: 1
+2022-04-22 13:04:18.4319|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 29, Average MS per Tick: 16,774193548387096774193548387, Target Tick Time: 1
+2022-04-22 13:04:18.4652|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 30, Average MS per Tick: 16,78125, Target Tick Time: 1
+2022-04-22 13:04:18.4817|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 31, Average MS per Tick: 16,757575757575757575757575758, Target Tick Time: 1
+2022-04-22 13:04:18.4817|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 32, Average MS per Tick: 16,764705882352941176470588235, Target Tick Time: 1
+2022-04-22 13:04:18.5161|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 33, Average MS per Tick: 16,8, Target Tick Time: 1
+2022-04-22 13:04:18.5316|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 34, Average MS per Tick: 16,75, Target Tick Time: 1
+2022-04-22 13:04:18.5487|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 35, Average MS per Tick: 16,756756756756756756756756757, Target Tick Time: 1
+2022-04-22 13:04:18.5654|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 36, Average MS per Tick: 16,763157894736842105263157895, Target Tick Time: 1
+2022-04-22 13:04:18.5817|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 37, Average MS per Tick: 16,743589743589743589743589744, Target Tick Time: 1
+2022-04-22 13:04:18.5980|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 38, Average MS per Tick: 16,75, Target Tick Time: 1
+2022-04-22 13:04:18.6151|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 39, Average MS per Tick: 16,756097560975609756097560976, Target Tick Time: 1
+2022-04-22 13:04:18.6321|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 40, Average MS per Tick: 16,761904761904761904761904762, Target Tick Time: 1
+2022-04-22 13:04:18.6479|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 41, Average MS per Tick: 16,72093023255813953488372093, Target Tick Time: 1
+2022-04-22 13:04:18.6649|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 42, Average MS per Tick: 16,727272727272727272727272727, Target Tick Time: 1
+2022-04-22 13:04:18.6821|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 43, Average MS per Tick: 16,755555555555555555555555556, Target Tick Time: 1
+2022-04-22 13:04:18.6821|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 44, Average MS per Tick: 16,739130434782608695652173913, Target Tick Time: 1
+2022-04-22 13:04:18.7149|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 45, Average MS per Tick: 16,723404255319148936170212766, Target Tick Time: 1
+2022-04-22 13:04:18.7149|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 46, Average MS per Tick: 16,729166666666666666666666667, Target Tick Time: 1
+2022-04-22 13:04:18.7485|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 47, Average MS per Tick: 16,734693877551020408163265306, Target Tick Time: 1
+2022-04-22 13:04:18.7651|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 48, Average MS per Tick: 16,74, Target Tick Time: 1
+2022-04-22 13:04:18.8144|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 49, Average MS per Tick: 17,7, Target Tick Time: 1
+2022-04-22 13:04:18.8144|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 50, Average MS per Tick: 17,1, Target Tick Time: 1
+2022-04-22 13:04:18.8500|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 51, Average MS per Tick: 17,18, Target Tick Time: 1
+2022-04-22 13:04:18.8500|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 52, Average MS per Tick: 16,7, Target Tick Time: 1
+2022-04-22 13:04:18.8500|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 53, Average MS per Tick: 16,7, Target Tick Time: 1
+2022-04-22 13:04:18.8821|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 54, Average MS per Tick: 16,96, Target Tick Time: 1
+2022-04-22 13:04:18.8831|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 55, Average MS per Tick: 16,66, Target Tick Time: 1
+2022-04-22 13:04:18.9163|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 56, Average MS per Tick: 17, Target Tick Time: 1
+2022-04-22 13:04:18.9163|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 56, Average MS per Tick: 17,32, Target Tick Time: 1
+2022-04-22 13:04:18.9486|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 57, Average MS per Tick: 17,6, Target Tick Time: 1
+2022-04-22 13:04:18.9486|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 57, Average MS per Tick: 17,92, Target Tick Time: 1
+2022-04-22 13:04:18.9833|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 58, Average MS per Tick: 18,32, Target Tick Time: 1
+2022-04-22 13:04:18.9833|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 58, Average MS per Tick: 18,68, Target Tick Time: 1
+2022-04-22 13:04:19.0161|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 59, Average MS per Tick: 19, Target Tick Time: 1
+2022-04-22 13:04:19.0161|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 59, Average MS per Tick: 19,32, Target Tick Time: 1
+2022-04-22 13:04:19.0488|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 60, Average MS per Tick: 19,64, Target Tick Time: 1
+2022-04-22 13:04:19.0488|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 61, Average MS per Tick: 19,32, Target Tick Time: 1
+2022-04-22 13:04:19.0829|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 62, Average MS per Tick: 19,66, Target Tick Time: 1
+2022-04-22 13:04:19.0829|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 63, Average MS per Tick: 19,34, Target Tick Time: 1
+2022-04-22 13:04:19.1156|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 64, Average MS per Tick: 19,64, Target Tick Time: 1
+2022-04-22 13:04:19.1156|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 64, Average MS per Tick: 19,98, Target Tick Time: 1
+2022-04-22 13:04:19.1488|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 65, Average MS per Tick: 20,3, Target Tick Time: 1
+2022-04-22 13:04:19.1488|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 66, Average MS per Tick: 20, Target Tick Time: 1
+2022-04-22 13:04:19.1901|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 67, Average MS per Tick: 20,48, Target Tick Time: 1
+2022-04-22 13:04:19.1901|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 67, Average MS per Tick: 20,96, Target Tick Time: 1
+2022-04-22 13:04:19.2223|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 68, Average MS per Tick: 21,28, Target Tick Time: 1
+2022-04-22 13:04:19.2223|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 68, Average MS per Tick: 21,58, Target Tick Time: 1
+2022-04-22 13:04:19.2538|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 69, Average MS per Tick: 21,84, Target Tick Time: 1
+2022-04-22 13:04:19.2538|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 70, Average MS per Tick: 21,56, Target Tick Time: 1
+2022-04-22 13:04:19.2900|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 71, Average MS per Tick: 21,94, Target Tick Time: 1
+2022-04-22 13:04:19.2900|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 71, Average MS per Tick: 22,32, Target Tick Time: 1
+2022-04-22 13:04:19.3230|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 72, Average MS per Tick: 22,62, Target Tick Time: 1
+2022-04-22 13:04:19.3230|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 73, Average MS per Tick: 22,32, Target Tick Time: 1
+2022-04-22 13:04:19.3591|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 74, Average MS per Tick: 22,7, Target Tick Time: 1
+2022-04-22 13:04:19.3591|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 74, Average MS per Tick: 23,06, Target Tick Time: 1
+2022-04-22 13:04:19.3907|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 75, Average MS per Tick: 23,38, Target Tick Time: 1
+2022-04-22 13:04:19.3907|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 76, Average MS per Tick: 23,06, Target Tick Time: 1
+2022-04-22 13:04:19.4219|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 77, Average MS per Tick: 23,32, Target Tick Time: 1
+2022-04-22 13:04:19.4219|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 78, Average MS per Tick: 23,02, Target Tick Time: 1
+2022-04-22 13:04:19.4531|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 79, Average MS per Tick: 23,3, Target Tick Time: 1
+2022-04-22 13:04:19.4531|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 79, Average MS per Tick: 23,58, Target Tick Time: 1
+2022-04-22 13:04:19.4900|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 80, Average MS per Tick: 23,96, Target Tick Time: 1
+2022-04-22 13:04:19.4900|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 81, Average MS per Tick: 23,68, Target Tick Time: 1
+2022-04-22 13:04:19.5217|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 82, Average MS per Tick: 23,96, Target Tick Time: 1
+2022-04-22 13:04:19.5217|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 83, Average MS per Tick: 23,62, Target Tick Time: 1
+2022-04-22 13:04:19.5535|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 84, Average MS per Tick: 23,92, Target Tick Time: 1
+2022-04-22 13:04:19.5535|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 85, Average MS per Tick: 23,62, Target Tick Time: 1
+2022-04-22 13:04:19.5904|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 86, Average MS per Tick: 24, Target Tick Time: 1
+2022-04-22 13:04:19.5904|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 87, Average MS per Tick: 23,68, Target Tick Time: 1
+2022-04-22 13:04:19.6217|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 88, Average MS per Tick: 23,94, Target Tick Time: 1
+2022-04-22 13:04:19.6217|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 89, Average MS per Tick: 23, Target Tick Time: 1
+2022-04-22 13:04:19.6533|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 90, Average MS per Tick: 23,6, Target Tick Time: 1
+2022-04-22 13:04:19.6533|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 91, Average MS per Tick: 22,92, Target Tick Time: 1
+2022-04-22 13:04:19.6908|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 92, Average MS per Tick: 23,62, Target Tick Time: 1
+2022-04-22 13:04:19.6908|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 93, Average MS per Tick: 23,62, Target Tick Time: 1
+2022-04-22 13:04:19.7222|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 94, Average MS per Tick: 23,62, Target Tick Time: 1
+2022-04-22 13:04:19.7222|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 94, Average MS per Tick: 24,22, Target Tick Time: 1
+2022-04-22 13:04:19.7533|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 95, Average MS per Tick: 24,18, Target Tick Time: 1
+2022-04-22 13:04:19.7533|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 95, Average MS per Tick: 24,14, Target Tick Time: 1
+2022-04-22 13:04:19.7908|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 96, Average MS per Tick: 24,24, Target Tick Time: 1
+2022-04-22 13:04:19.7908|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 97, Average MS per Tick: 23,62, Target Tick Time: 1
+2022-04-22 13:04:19.8225|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 98, Average MS per Tick: 23,54, Target Tick Time: 1
+2022-04-22 13:04:19.8225|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 99, Average MS per Tick: 22,86, Target Tick Time: 1
+2022-04-22 13:04:19.8537|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 100, Average MS per Tick: 22,8, Target Tick Time: 1
+2022-04-22 13:04:19.8537|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 101, Average MS per Tick: 22,16, Target Tick Time: 1
+2022-04-22 13:04:19.8906|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 102, Average MS per Tick: 22,24, Target Tick Time: 1
+2022-04-22 13:04:19.8906|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 103, Average MS per Tick: 22,24, Target Tick Time: 1
+2022-04-22 13:04:19.9229|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 104, Average MS per Tick: 22,2, Target Tick Time: 1
+2022-04-22 13:04:19.9229|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 105, Average MS per Tick: 22,2, Target Tick Time: 1
+2022-04-22 13:04:19.9541|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 106, Average MS per Tick: 22,18, Target Tick Time: 1
+2022-04-22 13:04:19.9541|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 106, Average MS per Tick: 22,16, Target Tick Time: 1
+2022-04-22 13:04:19.9909|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 107, Average MS per Tick: 22,22, Target Tick Time: 1
+2022-04-22 13:04:19.9909|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 108, Average MS per Tick: 22,22, Target Tick Time: 1
+2022-04-22 13:04:20.0271|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 109, Average MS per Tick: 22,12, Target Tick Time: 1
+2022-04-22 13:04:20.0271|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 109, Average MS per Tick: 22,02, Target Tick Time: 1
+2022-04-22 13:04:20.0589|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 110, Average MS per Tick: 22, Target Tick Time: 1
+2022-04-22 13:04:20.0589|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 111, Average MS per Tick: 21,38, Target Tick Time: 1
+2022-04-22 13:04:20.0909|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 112, Average MS per Tick: 21,38, Target Tick Time: 1
+2022-04-22 13:04:20.0909|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 113, Average MS per Tick: 21,38, Target Tick Time: 1
+2022-04-22 13:04:20.1219|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 114, Average MS per Tick: 21,26, Target Tick Time: 1
+2022-04-22 13:04:20.1219|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 115, Average MS per Tick: 20,56, Target Tick Time: 1
+2022-04-22 13:04:20.1539|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 116, Average MS per Tick: 20,54, Target Tick Time: 1
+2022-04-22 13:04:20.1539|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 117, Average MS per Tick: 20,54, Target Tick Time: 1
+2022-04-22 13:04:20.1908|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 118, Average MS per Tick: 20,54, Target Tick Time: 1
+2022-04-22 13:04:20.1908|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 119, Average MS per Tick: 19,84, Target Tick Time: 1
+2022-04-22 13:04:20.2219|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 120, Average MS per Tick: 19,82, Target Tick Time: 1
+2022-04-22 13:04:20.2219|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 121, Average MS per Tick: 19,82, Target Tick Time: 1
+2022-04-22 13:04:20.2538|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 122, Average MS per Tick: 19,84, Target Tick Time: 1
+2022-04-22 13:04:20.2538|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 123, Average MS per Tick: 19,84, Target Tick Time: 1
+2022-04-22 13:04:20.2911|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 124, Average MS per Tick: 19,96, Target Tick Time: 1
+2022-04-22 13:04:20.2911|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 124, Average MS per Tick: 20,08, Target Tick Time: 1
+2022-04-22 13:04:20.3223|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 125, Average MS per Tick: 19,98, Target Tick Time: 1
+2022-04-22 13:04:20.3223|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 125, Average MS per Tick: 20,58, Target Tick Time: 1
+2022-04-22 13:04:20.3535|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 126, Average MS per Tick: 20,58, Target Tick Time: 1
+2022-04-22 13:04:20.3535|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 126, Average MS per Tick: 21,18, Target Tick Time: 1
+2022-04-22 13:04:20.3913|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 127, Average MS per Tick: 21,32, Target Tick Time: 1
+2022-04-22 13:04:20.3913|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 128, Average MS per Tick: 21,32, Target Tick Time: 1
+2022-04-22 13:04:20.4224|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 129, Average MS per Tick: 21,2, Target Tick Time: 1
+2022-04-22 13:04:20.4224|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 130, Average MS per Tick: 21,2, Target Tick Time: 1
+2022-04-22 13:04:20.4537|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 131, Average MS per Tick: 21,2, Target Tick Time: 1
+2022-04-22 13:04:20.4537|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 132, Average MS per Tick: 21,2, Target Tick Time: 1
+2022-04-22 13:04:20.4917|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 133, Average MS per Tick: 21,32, Target Tick Time: 1
+2022-04-22 13:04:20.4917|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 134, Average MS per Tick: 21,32, Target Tick Time: 1
+2022-04-22 13:04:20.5233|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 135, Average MS per Tick: 21,22, Target Tick Time: 1
+2022-04-22 13:04:20.5233|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 135, Average MS per Tick: 21,82, Target Tick Time: 1
+2022-04-22 13:04:20.5545|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 136, Average MS per Tick: 21,82, Target Tick Time: 1
+2022-04-22 13:04:20.5545|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 137, Average MS per Tick: 21,22, Target Tick Time: 1
+2022-04-22 13:04:20.5918|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 138, Average MS per Tick: 21,32, Target Tick Time: 1
+2022-04-22 13:04:20.5918|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 139, Average MS per Tick: 20,72, Target Tick Time: 1
+2022-04-22 13:04:20.6241|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 140, Average MS per Tick: 20,62, Target Tick Time: 1
+2022-04-22 13:04:20.6241|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 141, Average MS per Tick: 20,62, Target Tick Time: 1
+2022-04-22 13:04:20.6560|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 142, Average MS per Tick: 20,6, Target Tick Time: 1
+2022-04-22 13:04:20.6560|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 143, Average MS per Tick: 20,6, Target Tick Time: 1
+2022-04-22 13:04:20.6917|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 144, Average MS per Tick: 20,7, Target Tick Time: 1
+2022-04-22 13:04:20.6917|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 145, Average MS per Tick: 20,7, Target Tick Time: 1
+2022-04-22 13:04:20.7234|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 146, Average MS per Tick: 20,6, Target Tick Time: 1
+2022-04-22 13:04:20.7234|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 147, Average MS per Tick: 20,6, Target Tick Time: 1
+2022-04-22 13:04:20.7552|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 148, Average MS per Tick: 20,6, Target Tick Time: 1
+2022-04-22 13:04:20.7552|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 148, Average MS per Tick: 21,2, Target Tick Time: 1
+2022-04-22 13:04:20.7917|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 149, Average MS per Tick: 21,3, Target Tick Time: 1
+2022-04-22 13:04:20.7917|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 150, Average MS per Tick: 20,7, Target Tick Time: 1
+2022-04-22 13:04:20.8231|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 151, Average MS per Tick: 20,6, Target Tick Time: 1
+2022-04-22 13:04:20.8231|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 152, Average MS per Tick: 20,6, Target Tick Time: 1
+2022-04-22 13:04:20.8547|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 153, Average MS per Tick: 20,48, Target Tick Time: 1
+2022-04-22 13:04:20.8547|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 154, Average MS per Tick: 19,78, Target Tick Time: 1
+2022-04-22 13:04:20.8921|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 155, Average MS per Tick: 19,9, Target Tick Time: 1
+2022-04-22 13:04:20.8921|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 155, Average MS per Tick: 20,62, Target Tick Time: 1
+2022-04-22 13:04:20.9233|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 156, Average MS per Tick: 20,62, Target Tick Time: 1
+2022-04-22 13:04:20.9233|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 157, Average MS per Tick: 20,62, Target Tick Time: 1
+2022-04-22 13:04:20.9543|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 158, Average MS per Tick: 20,62, Target Tick Time: 1
+2022-04-22 13:04:20.9543|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 158, Average MS per Tick: 21,2, Target Tick Time: 1
+2022-04-22 13:04:20.9924|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 159, Average MS per Tick: 21,34, Target Tick Time: 1
+2022-04-22 13:04:20.9924|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 159, Average MS per Tick: 22,08, Target Tick Time: 1
+2022-04-22 13:04:21.0237|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 160, Average MS per Tick: 21,98, Target Tick Time: 1
+2022-04-22 13:04:21.0237|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 161, Average MS per Tick: 21,98, Target Tick Time: 1
+2022-04-22 13:04:21.0549|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 162, Average MS per Tick: 21,98, Target Tick Time: 1
+2022-04-22 13:04:21.0549|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 163, Average MS per Tick: 21,98, Target Tick Time: 1
+2022-04-22 13:04:21.0925|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 164, Average MS per Tick: 22,1, Target Tick Time: 1
+2022-04-22 13:04:21.0925|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 165, Average MS per Tick: 22,1, Target Tick Time: 1
+2022-04-22 13:04:21.1236|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 166, Average MS per Tick: 21,96, Target Tick Time: 1
+2022-04-22 13:04:21.1236|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 167, Average MS per Tick: 21,24, Target Tick Time: 1
+2022-04-22 13:04:21.1550|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 168, Average MS per Tick: 21,22, Target Tick Time: 1
+2022-04-22 13:04:21.1550|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 169, Average MS per Tick: 20,62, Target Tick Time: 1
+2022-04-22 13:04:21.1928|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 170, Average MS per Tick: 20,74, Target Tick Time: 1
+2022-04-22 13:04:21.1928|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 171, Average MS per Tick: 20,14, Target Tick Time: 1
+2022-04-22 13:04:21.2243|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 172, Average MS per Tick: 20, Target Tick Time: 1
+2022-04-22 13:04:21.2243|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 172, Average MS per Tick: 20,6, Target Tick Time: 1
+2022-04-22 13:04:21.2553|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 173, Average MS per Tick: 20,62, Target Tick Time: 1
+2022-04-22 13:04:21.2553|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 174, Average MS per Tick: 20,62, Target Tick Time: 1
+2022-04-22 13:04:21.2932|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 175, Average MS per Tick: 20,76, Target Tick Time: 1
+2022-04-22 13:04:21.2932|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 175, Average MS per Tick: 21,48, Target Tick Time: 1
+2022-04-22 13:04:21.3250|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 176, Average MS per Tick: 21,36, Target Tick Time: 1
+2022-04-22 13:04:21.3250|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 177, Average MS per Tick: 21,36, Target Tick Time: 1
+2022-04-22 13:04:21.3595|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 178, Average MS per Tick: 21,42, Target Tick Time: 1
+2022-04-22 13:04:21.3595|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 179, Average MS per Tick: 20,82, Target Tick Time: 1
+2022-04-22 13:04:21.3933|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 180, Average MS per Tick: 20,86, Target Tick Time: 1
+2022-04-22 13:04:21.3933|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 180, Average MS per Tick: 21,5, Target Tick Time: 1
+2022-04-22 13:04:21.4251|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 181, Average MS per Tick: 21,42, Target Tick Time: 1
+2022-04-22 13:04:21.4251|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 181, Average MS per Tick: 22,04, Target Tick Time: 1
+2022-04-22 13:04:21.4563|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 182, Average MS per Tick: 22,02, Target Tick Time: 1
+2022-04-22 13:04:21.4563|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 182, Average MS per Tick: 22,62, Target Tick Time: 1
+2022-04-22 13:04:21.4936|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 183, Average MS per Tick: 22,76, Target Tick Time: 1
+2022-04-22 13:04:21.4936|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 184, Average MS per Tick: 22,76, Target Tick Time: 1
+2022-04-22 13:04:21.5250|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 185, Average MS per Tick: 22,66, Target Tick Time: 1
+2022-04-22 13:04:21.5250|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 186, Average MS per Tick: 22,66, Target Tick Time: 1
+2022-04-22 13:04:21.5567|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 187, Average MS per Tick: 22,66, Target Tick Time: 1
+2022-04-22 13:04:21.5567|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 188, Average MS per Tick: 22,66, Target Tick Time: 1
+2022-04-22 13:04:21.5936|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 189, Average MS per Tick: 22,76, Target Tick Time: 1
+2022-04-22 13:04:21.5936|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 190, Average MS per Tick: 22,16, Target Tick Time: 1
+2022-04-22 13:04:21.6248|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 191, Average MS per Tick: 22,04, Target Tick Time: 1
+2022-04-22 13:04:21.6248|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 192, Average MS per Tick: 22,04, Target Tick Time: 1
+2022-04-22 13:04:21.6577|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 193, Average MS per Tick: 22,06, Target Tick Time: 1
+2022-04-22 13:04:21.6577|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 194, Average MS per Tick: 22,06, Target Tick Time: 1
+2022-04-22 13:04:21.6935|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 195, Average MS per Tick: 22,16, Target Tick Time: 1
+2022-04-22 13:04:21.6935|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 196, Average MS per Tick: 22,16, Target Tick Time: 1
+2022-04-22 13:04:21.7247|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 197, Average MS per Tick: 22,02, Target Tick Time: 1
+2022-04-22 13:04:21.7247|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 198, Average MS per Tick: 21,3, Target Tick Time: 1
+2022-04-22 13:04:21.7559|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 199, Average MS per Tick: 21,28, Target Tick Time: 1
+2022-04-22 13:04:21.7559|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 200, Average MS per Tick: 21,28, Target Tick Time: 1
+2022-04-22 13:04:21.7939|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 201, Average MS per Tick: 21,42, Target Tick Time: 1
+2022-04-22 13:04:21.7939|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 202, Average MS per Tick: 20,84, Target Tick Time: 1
+2022-04-22 13:04:21.8252|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 203, Average MS per Tick: 20,7, Target Tick Time: 1
+2022-04-22 13:04:21.8252|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 204, Average MS per Tick: 19,96, Target Tick Time: 1
+2022-04-22 13:04:21.8566|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 205, Average MS per Tick: 19,94, Target Tick Time: 1
+2022-04-22 13:04:21.8566|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 206, Average MS per Tick: 19,94, Target Tick Time: 1
+2022-04-22 13:04:21.8942|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 207, Average MS per Tick: 20,08, Target Tick Time: 1
+2022-04-22 13:04:21.8942|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 208, Average MS per Tick: 20,08, Target Tick Time: 1
+2022-04-22 13:04:21.9254|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 209, Average MS per Tick: 19,94, Target Tick Time: 1
+2022-04-22 13:04:21.9254|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 210, Average MS per Tick: 19,94, Target Tick Time: 1
+2022-04-22 13:04:21.9565|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 211, Average MS per Tick: 19,94, Target Tick Time: 1
+2022-04-22 13:04:21.9565|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 212, Average MS per Tick: 19,94, Target Tick Time: 1
+2022-04-22 13:04:21.9946|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 213, Average MS per Tick: 20,08, Target Tick Time: 1
+2022-04-22 13:04:21.9946|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 214, Average MS per Tick: 20,08, Target Tick Time: 1
+2022-04-22 13:04:22.0256|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 215, Average MS per Tick: 19,94, Target Tick Time: 1
+2022-04-22 13:04:22.0256|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 216, Average MS per Tick: 19,94, Target Tick Time: 1
+2022-04-22 13:04:22.0569|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 217, Average MS per Tick: 19,92, Target Tick Time: 1
+2022-04-22 13:04:22.0569|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 218, Average MS per Tick: 19,32, Target Tick Time: 1
+2022-04-22 13:04:22.0944|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 219, Average MS per Tick: 19,44, Target Tick Time: 1
+2022-04-22 13:04:22.0944|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 220, Average MS per Tick: 19,44, Target Tick Time: 1
+2022-04-22 13:04:22.1266|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 221, Average MS per Tick: 19,32, Target Tick Time: 1
+2022-04-22 13:04:22.1266|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 222, Average MS per Tick: 18,6, Target Tick Time: 1
+2022-04-22 13:04:22.1580|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 223, Average MS per Tick: 18,58, Target Tick Time: 1
+2022-04-22 13:04:22.1580|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 224, Average MS per Tick: 18,58, Target Tick Time: 1
+2022-04-22 13:04:22.1946|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 225, Average MS per Tick: 18,62, Target Tick Time: 1
+2022-04-22 13:04:22.1946|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 226, Average MS per Tick: 18,62, Target Tick Time: 1
+2022-04-22 13:04:22.2259|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 227, Average MS per Tick: 18,56, Target Tick Time: 1
+2022-04-22 13:04:22.2259|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 228, Average MS per Tick: 17,92, Target Tick Time: 1
+2022-04-22 13:04:22.2577|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 229, Average MS per Tick: 17,9, Target Tick Time: 1
+2022-04-22 13:04:22.2577|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 230, Average MS per Tick: 17,28, Target Tick Time: 1
+2022-04-22 13:04:22.2949|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 231, Average MS per Tick: 17,38, Target Tick Time: 1
+2022-04-22 13:04:22.2949|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 232, Average MS per Tick: 16,78, Target Tick Time: 1
+2022-04-22 13:04:22.3301|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 233, Average MS per Tick: 16,74, Target Tick Time: 1
+2022-04-22 13:04:22.3301|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 233, Average MS per Tick: 17,42, Target Tick Time: 1
+2022-04-22 13:04:22.3625|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 234, Average MS per Tick: 17,46, Target Tick Time: 1
+2022-04-22 13:04:22.3625|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 235, Average MS per Tick: 17,46, Target Tick Time: 1
+2022-04-22 13:04:22.3950|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 236, Average MS per Tick: 17,48, Target Tick Time: 1
+2022-04-22 13:04:22.3950|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 237, Average MS per Tick: 17,48, Target Tick Time: 1
+2022-04-22 13:04:22.4263|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 238, Average MS per Tick: 17,36, Target Tick Time: 1
+2022-04-22 13:04:22.4263|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 238, Average MS per Tick: 17,94, Target Tick Time: 1
+2022-04-22 13:04:22.4581|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 239, Average MS per Tick: 17,98, Target Tick Time: 1
+2022-04-22 13:04:22.4581|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 239, Average MS per Tick: 18,6, Target Tick Time: 1
+2022-04-22 13:04:22.4954|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 240, Average MS per Tick: 18,7, Target Tick Time: 1
+2022-04-22 13:04:22.4954|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 240, Average MS per Tick: 19,42, Target Tick Time: 1
+2022-04-22 13:04:22.5291|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 241, Average MS per Tick: 19,4, Target Tick Time: 1
+2022-04-22 13:04:22.5291|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 241, Average MS per Tick: 20,06, Target Tick Time: 1
+2022-04-22 13:04:22.5602|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 242, Average MS per Tick: 20,08, Target Tick Time: 1
+2022-04-22 13:04:22.5602|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 242, Average MS per Tick: 20,68, Target Tick Time: 1
+2022-04-22 13:04:22.5955|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 243, Average MS per Tick: 20,78, Target Tick Time: 1
+2022-04-22 13:04:22.5955|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 243, Average MS per Tick: 21,46, Target Tick Time: 1
+2022-04-22 13:04:22.6267|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 244, Average MS per Tick: 21,34, Target Tick Time: 1
+2022-04-22 13:04:22.6267|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 245, Average MS per Tick: 21,34, Target Tick Time: 1
+2022-04-22 13:04:22.6584|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 246, Average MS per Tick: 21,34, Target Tick Time: 1
+2022-04-22 13:04:22.6584|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 246, Average MS per Tick: 21,94, Target Tick Time: 1
+2022-04-22 13:04:22.6957|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 247, Average MS per Tick: 22,08, Target Tick Time: 1
+2022-04-22 13:04:22.6957|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 248, Average MS per Tick: 22,08, Target Tick Time: 1
+2022-04-22 13:04:22.7268|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 249, Average MS per Tick: 21,94, Target Tick Time: 1
+2022-04-22 13:04:22.7268|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 250, Average MS per Tick: 21,94, Target Tick Time: 1
+2022-04-22 13:04:22.7581|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 251, Average MS per Tick: 21,96, Target Tick Time: 1
+2022-04-22 13:04:22.7581|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 251, Average MS per Tick: 22,56, Target Tick Time: 1
+2022-04-22 13:04:22.7959|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 252, Average MS per Tick: 22,7, Target Tick Time: 1
+2022-04-22 13:04:22.7959|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 253, Average MS per Tick: 22,7, Target Tick Time: 1
+2022-04-22 13:04:22.8274|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 254, Average MS per Tick: 22,58, Target Tick Time: 1
+2022-04-22 13:04:22.8274|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 255, Average MS per Tick: 22,58, Target Tick Time: 1
+2022-04-22 13:04:22.8625|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 256, Average MS per Tick: 22,66, Target Tick Time: 1
+2022-04-22 13:04:22.8625|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 257, Average MS per Tick: 22,66, Target Tick Time: 1
+2022-04-22 13:04:22.8962|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 258, Average MS per Tick: 22,72, Target Tick Time: 1
+2022-04-22 13:04:22.8962|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 259, Average MS per Tick: 22,72, Target Tick Time: 1
+2022-04-22 13:04:22.9277|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 260, Average MS per Tick: 22,58, Target Tick Time: 1
+2022-04-22 13:04:22.9277|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 261, Average MS per Tick: 22,58, Target Tick Time: 1
+2022-04-22 13:04:22.9591|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 262, Average MS per Tick: 22,58, Target Tick Time: 1
+2022-04-22 13:04:22.9591|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 263, Average MS per Tick: 22,58, Target Tick Time: 1
+2022-04-22 13:04:22.9964|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 264, Average MS per Tick: 22,7, Target Tick Time: 1
+2022-04-22 13:04:22.9964|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 264, Average MS per Tick: 23,4, Target Tick Time: 1
+2022-04-22 13:04:23.0280|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 265, Average MS per Tick: 23,3, Target Tick Time: 1
+2022-04-22 13:04:23.0280|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 266, Average MS per Tick: 23,3, Target Tick Time: 1
+2022-04-22 13:04:23.0591|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 267, Average MS per Tick: 23,32, Target Tick Time: 1
+2022-04-22 13:04:23.0591|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 267, Average MS per Tick: 23,92, Target Tick Time: 1
+2022-04-22 13:04:23.0964|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 268, Average MS per Tick: 24,04, Target Tick Time: 1
+2022-04-22 13:04:23.0964|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 269, Average MS per Tick: 24,04, Target Tick Time: 1
+2022-04-22 13:04:23.1280|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 270, Average MS per Tick: 23,92, Target Tick Time: 1
+2022-04-22 13:04:23.1280|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 271, Average MS per Tick: 23,92, Target Tick Time: 1
+2022-04-22 13:04:23.1593|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 272, Average MS per Tick: 23,84, Target Tick Time: 1
+2022-04-22 13:04:23.1593|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 272, Average MS per Tick: 23,76, Target Tick Time: 1
+2022-04-22 13:04:23.1967|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 273, Average MS per Tick: 23,86, Target Tick Time: 1
+2022-04-22 13:04:23.1967|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 274, Average MS per Tick: 23,86, Target Tick Time: 1
+2022-04-22 13:04:23.2278|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 275, Average MS per Tick: 23,82, Target Tick Time: 1
+2022-04-22 13:04:23.2278|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 276, Average MS per Tick: 23,82, Target Tick Time: 1
+2022-04-22 13:04:23.2624|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 277, Average MS per Tick: 23,9, Target Tick Time: 1
+2022-04-22 13:04:23.2624|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 278, Average MS per Tick: 23,32, Target Tick Time: 1
+2022-04-22 13:04:23.2967|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 279, Average MS per Tick: 23,34, Target Tick Time: 1
+2022-04-22 13:04:23.2967|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 280, Average MS per Tick: 22,72, Target Tick Time: 1
+2022-04-22 13:04:23.3279|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 281, Average MS per Tick: 22,58, Target Tick Time: 1
+2022-04-22 13:04:23.3279|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 282, Average MS per Tick: 21,86, Target Tick Time: 1
+2022-04-22 13:04:23.3603|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 283, Average MS per Tick: 21,82, Target Tick Time: 1
+2022-04-22 13:04:23.3603|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 284, Average MS per Tick: 21,16, Target Tick Time: 1
+2022-04-22 13:04:23.3968|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 285, Average MS per Tick: 21,24, Target Tick Time: 1
+2022-04-22 13:04:23.3968|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 286, Average MS per Tick: 20,64, Target Tick Time: 1
+2022-04-22 13:04:23.4280|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 287, Average MS per Tick: 20,54, Target Tick Time: 1
+2022-04-22 13:04:23.4280|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 288, Average MS per Tick: 19,86, Target Tick Time: 1
+2022-04-22 13:04:23.4593|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 289, Average MS per Tick: 19,86, Target Tick Time: 1
+2022-04-22 13:04:23.4593|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 290, Average MS per Tick: 19,86, Target Tick Time: 1
+2022-04-22 13:04:23.4969|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 291, Average MS per Tick: 19,96, Target Tick Time: 1
+2022-04-22 13:04:23.4969|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 292, Average MS per Tick: 19,36, Target Tick Time: 1
+2022-04-22 13:04:23.5280|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 293, Average MS per Tick: 19,22, Target Tick Time: 1
+2022-04-22 13:04:23.5280|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 294, Average MS per Tick: 19,22, Target Tick Time: 1
+2022-04-22 13:04:23.5593|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 295, Average MS per Tick: 19,24, Target Tick Time: 1
+2022-04-22 13:04:23.5593|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 295, Average MS per Tick: 19,84, Target Tick Time: 1
+2022-04-22 13:04:23.5968|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 296, Average MS per Tick: 19,96, Target Tick Time: 1
+2022-04-22 13:04:23.5968|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 297, Average MS per Tick: 19,36, Target Tick Time: 1
+2022-04-22 13:04:23.6290|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 298, Average MS per Tick: 19,24, Target Tick Time: 1
+2022-04-22 13:04:23.6290|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 299, Average MS per Tick: 19,24, Target Tick Time: 1
+2022-04-22 13:04:23.6624|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 300, Average MS per Tick: 19,28, Target Tick Time: 1
+2022-04-22 13:04:23.6624|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 301, Average MS per Tick: 19,28, Target Tick Time: 1
+2022-04-22 13:04:23.6973|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 302, Average MS per Tick: 19,28, Target Tick Time: 1
+2022-04-22 13:04:23.6973|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 302, Average MS per Tick: 19,94, Target Tick Time: 1
+2022-04-22 13:04:23.6973|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 303, Average MS per Tick: 19,3, Target Tick Time: 1
+2022-04-22 13:04:23.7294|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 304, Average MS per Tick: 19,9, Target Tick Time: 1
+2022-04-22 13:04:23.7606|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 305, Average MS per Tick: 19,92, Target Tick Time: 1
+2022-04-22 13:04:23.7606|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 306, Average MS per Tick: 19,92, Target Tick Time: 1
+2022-04-22 13:04:23.7973|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 307, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:23.7973|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 307, Average MS per Tick: 20,72, Target Tick Time: 1
+2022-04-22 13:04:23.7973|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 308, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:23.8288|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 309, Average MS per Tick: 19,9, Target Tick Time: 1
+2022-04-22 13:04:23.8603|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 310, Average MS per Tick: 19,92, Target Tick Time: 1
+2022-04-22 13:04:23.8603|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 310, Average MS per Tick: 20,54, Target Tick Time: 1
+2022-04-22 13:04:23.8975|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 311, Average MS per Tick: 20,66, Target Tick Time: 1
+2022-04-22 13:04:23.8975|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 312, Average MS per Tick: 20,06, Target Tick Time: 1
+2022-04-22 13:04:23.8975|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 313, Average MS per Tick: 19,36, Target Tick Time: 1
+2022-04-22 13:04:23.9288|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 314, Average MS per Tick: 19,9, Target Tick Time: 1
+2022-04-22 13:04:23.9607|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 315, Average MS per Tick: 19,94, Target Tick Time: 1
+2022-04-22 13:04:23.9607|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 316, Average MS per Tick: 19,94, Target Tick Time: 1
+2022-04-22 13:04:23.9977|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 317, Average MS per Tick: 20,04, Target Tick Time: 1
+2022-04-22 13:04:23.9977|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 318, Average MS per Tick: 19,44, Target Tick Time: 1
+2022-04-22 13:04:23.9977|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 319, Average MS per Tick: 18,72, Target Tick Time: 1
+2022-04-22 13:04:24.0291|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 320, Average MS per Tick: 19,3, Target Tick Time: 1
+2022-04-22 13:04:24.0611|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 321, Average MS per Tick: 19,34, Target Tick Time: 1
+2022-04-22 13:04:24.0611|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 321, Average MS per Tick: 19,96, Target Tick Time: 1
+2022-04-22 13:04:24.0976|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 322, Average MS per Tick: 20, Target Tick Time: 1
+2022-04-22 13:04:24.0976|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 323, Average MS per Tick: 20, Target Tick Time: 1
+2022-04-22 13:04:24.0976|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 323, Average MS per Tick: 19,36, Target Tick Time: 1
+2022-04-22 13:04:24.1294|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 324, Average MS per Tick: 19,96, Target Tick Time: 1
+2022-04-22 13:04:24.1610|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 325, Average MS per Tick: 19,98, Target Tick Time: 1
+2022-04-22 13:04:24.1610|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 326, Average MS per Tick: 19,98, Target Tick Time: 1
+2022-04-22 13:04:24.1980|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 327, Average MS per Tick: 20,06, Target Tick Time: 1
+2022-04-22 13:04:24.1980|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 328, Average MS per Tick: 20,06, Target Tick Time: 1
+2022-04-22 13:04:24.1980|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 329, Average MS per Tick: 19,38, Target Tick Time: 1
+2022-04-22 13:04:24.2297|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 330, Average MS per Tick: 19,96, Target Tick Time: 1
+2022-04-22 13:04:24.2617|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 331, Average MS per Tick: 20, Target Tick Time: 1
+2022-04-22 13:04:24.2617|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 332, Average MS per Tick: 20, Target Tick Time: 1
+2022-04-22 13:04:24.2984|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 333, Average MS per Tick: 20,1, Target Tick Time: 1
+2022-04-22 13:04:24.2984|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 334, Average MS per Tick: 20,1, Target Tick Time: 1
+2022-04-22 13:04:24.2984|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 335, Average MS per Tick: 19,4, Target Tick Time: 1
+2022-04-22 13:04:24.3316|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 336, Average MS per Tick: 20, Target Tick Time: 1
+2022-04-22 13:04:24.3316|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 337, Average MS per Tick: 19,42, Target Tick Time: 1
+2022-04-22 13:04:24.3632|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 338, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:24.3986|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 339, Average MS per Tick: 20,1, Target Tick Time: 1
+2022-04-22 13:04:24.3986|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 340, Average MS per Tick: 19,5, Target Tick Time: 1
+2022-04-22 13:04:24.3986|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 341, Average MS per Tick: 18,78, Target Tick Time: 1
+2022-04-22 13:04:24.4299|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 342, Average MS per Tick: 19,34, Target Tick Time: 1
+2022-04-22 13:04:24.4613|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 343, Average MS per Tick: 19,36, Target Tick Time: 1
+2022-04-22 13:04:24.4613|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 344, Average MS per Tick: 19,36, Target Tick Time: 1
+2022-04-22 13:04:24.4990|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 345, Average MS per Tick: 19,42, Target Tick Time: 1
+2022-04-22 13:04:24.4990|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 346, Average MS per Tick: 19,42, Target Tick Time: 1
+2022-04-22 13:04:24.4990|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 347, Average MS per Tick: 18,76, Target Tick Time: 1
+2022-04-22 13:04:24.5301|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 348, Average MS per Tick: 18,68, Target Tick Time: 1
+2022-04-22 13:04:24.5615|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 349, Average MS per Tick: 19,28, Target Tick Time: 1
+2022-04-22 13:04:24.5615|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 350, Average MS per Tick: 18,68, Target Tick Time: 1
+2022-04-22 13:04:24.5993|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 351, Average MS per Tick: 18,8, Target Tick Time: 1
+2022-04-22 13:04:24.5993|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 351, Average MS per Tick: 19,52, Target Tick Time: 1
+2022-04-22 13:04:24.5993|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 352, Average MS per Tick: 18,82, Target Tick Time: 1
+2022-04-22 13:04:24.6312|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 353, Average MS per Tick: 18,72, Target Tick Time: 1
+2022-04-22 13:04:24.6312|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 354, Average MS per Tick: 18,72, Target Tick Time: 1
+2022-04-22 13:04:24.6629|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 355, Average MS per Tick: 18,72, Target Tick Time: 1
+2022-04-22 13:04:24.6994|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 356, Average MS per Tick: 18,82, Target Tick Time: 1
+2022-04-22 13:04:24.6994|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 356, Average MS per Tick: 18,92, Target Tick Time: 1
+2022-04-22 13:04:24.6994|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 357, Average MS per Tick: 18,2, Target Tick Time: 1
+2022-04-22 13:04:24.7320|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 358, Average MS per Tick: 18,8, Target Tick Time: 1
+2022-04-22 13:04:24.7320|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 359, Average MS per Tick: 18,8, Target Tick Time: 1
+2022-04-22 13:04:24.7631|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 360, Average MS per Tick: 18,84, Target Tick Time: 1
+2022-04-22 13:04:24.7997|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 361, Average MS per Tick: 18,92, Target Tick Time: 1
+2022-04-22 13:04:24.7997|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 362, Average MS per Tick: 18,92, Target Tick Time: 1
+2022-04-22 13:04:24.7997|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 363, Average MS per Tick: 18,22, Target Tick Time: 1
+2022-04-22 13:04:24.8309|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 364, Average MS per Tick: 18,78, Target Tick Time: 1
+2022-04-22 13:04:24.8309|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 365, Average MS per Tick: 18,78, Target Tick Time: 1
+2022-04-22 13:04:24.8628|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 366, Average MS per Tick: 18,8, Target Tick Time: 1
+2022-04-22 13:04:24.8997|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 367, Average MS per Tick: 18,9, Target Tick Time: 1
+2022-04-22 13:04:24.8997|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 368, Average MS per Tick: 18,28, Target Tick Time: 1
+2022-04-22 13:04:24.8997|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 369, Average MS per Tick: 17,6, Target Tick Time: 1
+2022-04-22 13:04:24.9317|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 370, Average MS per Tick: 18,16, Target Tick Time: 1
+2022-04-22 13:04:24.9317|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 371, Average MS per Tick: 18,16, Target Tick Time: 1
+2022-04-22 13:04:24.9635|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 372, Average MS per Tick: 18,16, Target Tick Time: 1
+2022-04-22 13:04:24.9999|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 373, Average MS per Tick: 18,26, Target Tick Time: 1
+2022-04-22 13:04:24.9999|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 374, Average MS per Tick: 18,26, Target Tick Time: 1
+2022-04-22 13:04:24.9999|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 375, Average MS per Tick: 17,58, Target Tick Time: 1
+2022-04-22 13:04:25.0314|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 376, Average MS per Tick: 18,14, Target Tick Time: 1
+2022-04-22 13:04:25.0314|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 377, Average MS per Tick: 18,14, Target Tick Time: 1
+2022-04-22 13:04:25.0627|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 378, Average MS per Tick: 18,14, Target Tick Time: 1
+2022-04-22 13:04:25.1000|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 379, Average MS per Tick: 18,26, Target Tick Time: 1
+2022-04-22 13:04:25.1000|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 379, Average MS per Tick: 19, Target Tick Time: 1
+2022-04-22 13:04:25.1000|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 380, Average MS per Tick: 18,32, Target Tick Time: 1
+2022-04-22 13:04:25.1314|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 381, Average MS per Tick: 18,88, Target Tick Time: 1
+2022-04-22 13:04:25.1314|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 382, Average MS per Tick: 18,88, Target Tick Time: 1
+2022-04-22 13:04:25.1624|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 383, Average MS per Tick: 18,86, Target Tick Time: 1
+2022-04-22 13:04:25.2000|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 384, Average MS per Tick: 19,6, Target Tick Time: 1
+2022-04-22 13:04:25.2000|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 384, Average MS per Tick: 19,74, Target Tick Time: 1
+2022-04-22 13:04:25.2000|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 385, Average MS per Tick: 19,1, Target Tick Time: 1
+2022-04-22 13:04:25.2311|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 386, Average MS per Tick: 19,64, Target Tick Time: 1
+2022-04-22 13:04:25.2311|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 386, Average MS per Tick: 20,18, Target Tick Time: 1
+2022-04-22 13:04:25.2628|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 387, Average MS per Tick: 20,22, Target Tick Time: 1
+2022-04-22 13:04:25.3003|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 388, Average MS per Tick: 20,34, Target Tick Time: 1
+2022-04-22 13:04:25.3003|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 389, Average MS per Tick: 20,34, Target Tick Time: 1
+2022-04-22 13:04:25.3003|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 390, Average MS per Tick: 19,64, Target Tick Time: 1
+2022-04-22 13:04:25.3317|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 391, Average MS per Tick: 20,2, Target Tick Time: 1
+2022-04-22 13:04:25.3317|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 392, Average MS per Tick: 20,2, Target Tick Time: 1
+2022-04-22 13:04:25.3634|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 393, Average MS per Tick: 20,22, Target Tick Time: 1
+2022-04-22 13:04:25.4003|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 394, Average MS per Tick: 20,34, Target Tick Time: 1
+2022-04-22 13:04:25.4003|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 395, Average MS per Tick: 20,34, Target Tick Time: 1
+2022-04-22 13:04:25.4003|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 396, Average MS per Tick: 19,66, Target Tick Time: 1
+2022-04-22 13:04:25.4316|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 397, Average MS per Tick: 19,46, Target Tick Time: 1
+2022-04-22 13:04:25.4316|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 398, Average MS per Tick: 19,46, Target Tick Time: 1
+2022-04-22 13:04:25.4628|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 399, Average MS per Tick: 19,44, Target Tick Time: 1
+2022-04-22 13:04:25.5008|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 400, Average MS per Tick: 20,18, Target Tick Time: 1
+2022-04-22 13:04:25.5008|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 401, Average MS per Tick: 19,6, Target Tick Time: 1
+2022-04-22 13:04:25.5008|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 402, Average MS per Tick: 18,88, Target Tick Time: 1
+2022-04-22 13:04:25.5324|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 403, Average MS per Tick: 18,74, Target Tick Time: 1
+2022-04-22 13:04:25.5324|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 404, Average MS per Tick: 18,74, Target Tick Time: 1
+2022-04-22 13:04:25.5638|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 405, Average MS per Tick: 18,72, Target Tick Time: 1
+2022-04-22 13:04:25.6008|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 406, Average MS per Tick: 19,42, Target Tick Time: 1
+2022-04-22 13:04:25.6008|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 407, Average MS per Tick: 18,84, Target Tick Time: 1
+2022-04-22 13:04:25.6008|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 408, Average MS per Tick: 18,14, Target Tick Time: 1
+2022-04-22 13:04:25.6326|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 409, Average MS per Tick: 18,72, Target Tick Time: 1
+2022-04-22 13:04:25.6326|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 410, Average MS per Tick: 18,72, Target Tick Time: 1
+2022-04-22 13:04:25.6639|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 411, Average MS per Tick: 18,74, Target Tick Time: 1
+2022-04-22 13:04:25.7007|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 412, Average MS per Tick: 19,46, Target Tick Time: 1
+2022-04-22 13:04:25.7007|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 413, Average MS per Tick: 18,86, Target Tick Time: 1
+2022-04-22 13:04:25.7007|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 414, Average MS per Tick: 18,14, Target Tick Time: 1
+2022-04-22 13:04:25.7320|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 415, Average MS per Tick: 18,7, Target Tick Time: 1
+2022-04-22 13:04:25.7320|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 416, Average MS per Tick: 18,68, Target Tick Time: 1
+2022-04-22 13:04:25.7638|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 417, Average MS per Tick: 18,72, Target Tick Time: 1
+2022-04-22 13:04:25.8011|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 418, Average MS per Tick: 19,46, Target Tick Time: 1
+2022-04-22 13:04:25.8011|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 418, Average MS per Tick: 19,6, Target Tick Time: 1
+2022-04-22 13:04:25.8011|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 419, Average MS per Tick: 18,9, Target Tick Time: 1
+2022-04-22 13:04:25.8324|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 420, Average MS per Tick: 19,48, Target Tick Time: 1
+2022-04-22 13:04:25.8324|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 420, Average MS per Tick: 20,04, Target Tick Time: 1
+2022-04-22 13:04:25.8636|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 421, Average MS per Tick: 20,08, Target Tick Time: 1
+2022-04-22 13:04:25.9010|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 422, Average MS per Tick: 20,8, Target Tick Time: 1
+2022-04-22 13:04:25.9010|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 423, Average MS per Tick: 20,22, Target Tick Time: 1
+2022-04-22 13:04:25.9010|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 424, Average MS per Tick: 19,48, Target Tick Time: 1
+2022-04-22 13:04:25.9332|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 425, Average MS per Tick: 19,34, Target Tick Time: 1
+2022-04-22 13:04:25.9332|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 426, Average MS per Tick: 19,32, Target Tick Time: 1
+2022-04-22 13:04:25.9658|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 427, Average MS per Tick: 19,36, Target Tick Time: 1
+2022-04-22 13:04:25.9658|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 428, Average MS per Tick: 19,36, Target Tick Time: 1
+2022-04-22 13:04:26.0016|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 429, Average MS per Tick: 19,46, Target Tick Time: 1
+2022-04-22 13:04:26.0016|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 430, Average MS per Tick: 18,72, Target Tick Time: 1
+2022-04-22 13:04:26.0327|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 431, Average MS per Tick: 18,56, Target Tick Time: 1
+2022-04-22 13:04:26.0327|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 432, Average MS per Tick: 18,52, Target Tick Time: 1
+2022-04-22 13:04:26.0641|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 433, Average MS per Tick: 18,58, Target Tick Time: 1
+2022-04-22 13:04:26.0641|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 433, Average MS per Tick: 18,64, Target Tick Time: 1
+2022-04-22 13:04:26.1014|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 434, Average MS per Tick: 18,76, Target Tick Time: 1
+2022-04-22 13:04:26.1014|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 434, Average MS per Tick: 18,74, Target Tick Time: 1
+2022-04-22 13:04:26.1326|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 435, Average MS per Tick: 19,34, Target Tick Time: 1
+2022-04-22 13:04:26.1326|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 436, Average MS per Tick: 19,34, Target Tick Time: 1
+2022-04-22 13:04:26.1638|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 437, Average MS per Tick: 19,36, Target Tick Time: 1
+2022-04-22 13:04:26.2014|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 438, Average MS per Tick: 20,1, Target Tick Time: 1
+2022-04-22 13:04:26.2014|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 438, Average MS per Tick: 20,24, Target Tick Time: 1
+2022-04-22 13:04:26.2014|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 439, Average MS per Tick: 19,52, Target Tick Time: 1
+2022-04-22 13:04:26.2326|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 440, Average MS per Tick: 20,1, Target Tick Time: 1
+2022-04-22 13:04:26.2326|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 441, Average MS per Tick: 20,06, Target Tick Time: 1
+2022-04-22 13:04:26.2637|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 442, Average MS per Tick: 20,12, Target Tick Time: 1
+2022-04-22 13:04:26.3014|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 443, Average MS per Tick: 20,86, Target Tick Time: 1
+2022-04-22 13:04:26.3014|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 443, Average MS per Tick: 21,02, Target Tick Time: 1
+2022-04-22 13:04:26.3014|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 444, Average MS per Tick: 20,28, Target Tick Time: 1
+2022-04-22 13:04:26.3335|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 445, Average MS per Tick: 20,88, Target Tick Time: 1
+2022-04-22 13:04:26.3335|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 445, Average MS per Tick: 21,48, Target Tick Time: 1
+2022-04-22 13:04:26.3647|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 446, Average MS per Tick: 21,5, Target Tick Time: 1
+2022-04-22 13:04:26.3647|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 447, Average MS per Tick: 21,5, Target Tick Time: 1
+2022-04-22 13:04:26.4014|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 448, Average MS per Tick: 21,62, Target Tick Time: 1
+2022-04-22 13:04:26.4014|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 448, Average MS per Tick: 21,6, Target Tick Time: 1
+2022-04-22 13:04:26.4337|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 449, Average MS per Tick: 22,22, Target Tick Time: 1
+2022-04-22 13:04:26.4337|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 450, Average MS per Tick: 22,22, Target Tick Time: 1
+2022-04-22 13:04:26.4660|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 451, Average MS per Tick: 22,24, Target Tick Time: 1
+2022-04-22 13:04:26.4660|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 452, Average MS per Tick: 22,24, Target Tick Time: 1
+2022-04-22 13:04:26.5020|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 453, Average MS per Tick: 22,34, Target Tick Time: 1
+2022-04-22 13:04:26.5020|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 454, Average MS per Tick: 21,62, Target Tick Time: 1
+2022-04-22 13:04:26.5332|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 455, Average MS per Tick: 22,22, Target Tick Time: 1
+2022-04-22 13:04:26.5332|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 455, Average MS per Tick: 22,82, Target Tick Time: 1
+2022-04-22 13:04:26.5650|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 456, Average MS per Tick: 22,86, Target Tick Time: 1
+2022-04-22 13:04:26.5650|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 457, Average MS per Tick: 22,86, Target Tick Time: 1
+2022-04-22 13:04:26.6024|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 458, Average MS per Tick: 22,98, Target Tick Time: 1
+2022-04-22 13:04:26.6024|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 459, Average MS per Tick: 22,24, Target Tick Time: 1
+2022-04-22 13:04:26.6345|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 460, Average MS per Tick: 22,1, Target Tick Time: 1
+2022-04-22 13:04:26.6345|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 460, Average MS per Tick: 22,7, Target Tick Time: 1
+2022-04-22 13:04:26.6660|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 461, Average MS per Tick: 22,72, Target Tick Time: 1
+2022-04-22 13:04:26.6660|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 462, Average MS per Tick: 22,14, Target Tick Time: 1
+2022-04-22 13:04:26.7025|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 463, Average MS per Tick: 22,24, Target Tick Time: 1
+2022-04-22 13:04:26.7025|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 464, Average MS per Tick: 21,52, Target Tick Time: 1
+2022-04-22 13:04:26.7338|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 465, Average MS per Tick: 22,1, Target Tick Time: 1
+2022-04-22 13:04:26.7338|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 466, Average MS per Tick: 22,1, Target Tick Time: 1
+2022-04-22 13:04:26.7656|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 467, Average MS per Tick: 22,1, Target Tick Time: 1
+2022-04-22 13:04:26.7656|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 468, Average MS per Tick: 22,1, Target Tick Time: 1
+2022-04-22 13:04:26.8029|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 469, Average MS per Tick: 22,2, Target Tick Time: 1
+2022-04-22 13:04:26.8029|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 470, Average MS per Tick: 22,22, Target Tick Time: 1
+2022-04-22 13:04:26.8345|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 471, Average MS per Tick: 22,12, Target Tick Time: 1
+2022-04-22 13:04:26.8345|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 472, Average MS per Tick: 22,12, Target Tick Time: 1
+2022-04-22 13:04:26.8654|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 473, Average MS per Tick: 22,12, Target Tick Time: 1
+2022-04-22 13:04:26.8654|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 474, Average MS per Tick: 22,12, Target Tick Time: 1
+2022-04-22 13:04:26.9029|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 475, Average MS per Tick: 22,22, Target Tick Time: 1
+2022-04-22 13:04:26.9029|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 476, Average MS per Tick: 21,62, Target Tick Time: 1
+2022-04-22 13:04:26.9352|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 477, Average MS per Tick: 21,52, Target Tick Time: 1
+2022-04-22 13:04:26.9352|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 477, Average MS per Tick: 21,42, Target Tick Time: 1
+2022-04-22 13:04:26.9663|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 478, Average MS per Tick: 21,42, Target Tick Time: 1
+2022-04-22 13:04:26.9663|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 478, Average MS per Tick: 22,02, Target Tick Time: 1
+2022-04-22 13:04:27.0034|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 479, Average MS per Tick: 22,16, Target Tick Time: 1
+2022-04-22 13:04:27.0034|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 480, Average MS per Tick: 21,42, Target Tick Time: 1
+2022-04-22 13:04:27.0346|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 481, Average MS per Tick: 21,26, Target Tick Time: 1
+2022-04-22 13:04:27.0346|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 482, Average MS per Tick: 21,26, Target Tick Time: 1
+2022-04-22 13:04:27.0659|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 483, Average MS per Tick: 21,26, Target Tick Time: 1
+2022-04-22 13:04:27.0659|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 484, Average MS per Tick: 21,26, Target Tick Time: 1
+2022-04-22 13:04:27.1036|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 485, Average MS per Tick: 21,4, Target Tick Time: 1
+2022-04-22 13:04:27.1036|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 486, Average MS per Tick: 20,66, Target Tick Time: 1
+2022-04-22 13:04:27.1349|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 487, Average MS per Tick: 20,5, Target Tick Time: 1
+2022-04-22 13:04:27.1349|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 488, Average MS per Tick: 20,5, Target Tick Time: 1
+2022-04-22 13:04:27.1662|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 489, Average MS per Tick: 20,5, Target Tick Time: 1
+2022-04-22 13:04:27.1662|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 489, Average MS per Tick: 20,5, Target Tick Time: 1
+2022-04-22 13:04:27.2036|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 490, Average MS per Tick: 20,62, Target Tick Time: 1
+2022-04-22 13:04:27.2036|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 491, Average MS per Tick: 20,62, Target Tick Time: 1
+2022-04-22 13:04:27.2354|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 492, Average MS per Tick: 20,52, Target Tick Time: 1
+2022-04-22 13:04:27.2354|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 492, Average MS per Tick: 20,42, Target Tick Time: 1
+2022-04-22 13:04:27.2676|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 493, Average MS per Tick: 20,42, Target Tick Time: 1
+2022-04-22 13:04:27.2676|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 494, Average MS per Tick: 20,42, Target Tick Time: 1
+2022-04-22 13:04:27.3039|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 495, Average MS per Tick: 20,5, Target Tick Time: 1
+2022-04-22 13:04:27.3039|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 496, Average MS per Tick: 20,5, Target Tick Time: 1
+2022-04-22 13:04:27.3356|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 497, Average MS per Tick: 20,42, Target Tick Time: 1
+2022-04-22 13:04:27.3356|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 498, Average MS per Tick: 20,42, Target Tick Time: 1
+2022-04-22 13:04:27.3668|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 499, Average MS per Tick: 20,4, Target Tick Time: 1
+2022-04-22 13:04:27.3668|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 500, Average MS per Tick: 19,8, Target Tick Time: 1
+2022-04-22 13:04:27.4042|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 501, Average MS per Tick: 19,92, Target Tick Time: 1
+2022-04-22 13:04:27.4042|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 501, Average MS per Tick: 20,64, Target Tick Time: 1
+2022-04-22 13:04:27.4367|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 502, Average MS per Tick: 20,54, Target Tick Time: 1
+2022-04-22 13:04:27.4367|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 503, Average MS per Tick: 20,54, Target Tick Time: 1
+2022-04-22 13:04:27.4680|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 504, Average MS per Tick: 20,52, Target Tick Time: 1
+2022-04-22 13:04:27.4680|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 505, Average MS per Tick: 19,94, Target Tick Time: 1
+2022-04-22 13:04:27.5045|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 506, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:27.5045|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 507, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:27.5358|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 508, Average MS per Tick: 19,9, Target Tick Time: 1
+2022-04-22 13:04:27.5358|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 509, Average MS per Tick: 19,9, Target Tick Time: 1
+2022-04-22 13:04:27.5676|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 510, Average MS per Tick: 19,92, Target Tick Time: 1
+2022-04-22 13:04:27.5676|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 511, Average MS per Tick: 19,92, Target Tick Time: 1
+2022-04-22 13:04:27.6046|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 512, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:27.6046|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 513, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:27.6358|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 514, Average MS per Tick: 19,9, Target Tick Time: 1
+2022-04-22 13:04:27.6358|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 515, Average MS per Tick: 19,88, Target Tick Time: 1
+2022-04-22 13:04:27.6685|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 516, Average MS per Tick: 19,92, Target Tick Time: 1
+2022-04-22 13:04:27.6685|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 517, Average MS per Tick: 19,92, Target Tick Time: 1
+2022-04-22 13:04:27.7045|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 518, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:27.7045|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 519, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:27.7360|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 520, Average MS per Tick: 19,9, Target Tick Time: 1
+2022-04-22 13:04:27.7360|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 521, Average MS per Tick: 19,9, Target Tick Time: 1
+2022-04-22 13:04:27.7675|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 522, Average MS per Tick: 19,88, Target Tick Time: 1
+2022-04-22 13:04:27.7675|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 522, Average MS per Tick: 19,86, Target Tick Time: 1
+2022-04-22 13:04:27.8050|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 523, Average MS per Tick: 20, Target Tick Time: 1
+2022-04-22 13:04:27.8050|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 523, Average MS per Tick: 20,14, Target Tick Time: 1
+2022-04-22 13:04:27.8362|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 524, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:27.8362|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 525, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:27.8673|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 526, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:27.8673|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 527, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:27.9053|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 528, Average MS per Tick: 20,16, Target Tick Time: 1
+2022-04-22 13:04:27.9053|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 528, Average MS per Tick: 20,88, Target Tick Time: 1
+2022-04-22 13:04:27.9375|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 529, Average MS per Tick: 20,78, Target Tick Time: 1
+2022-04-22 13:04:27.9375|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 530, Average MS per Tick: 20,78, Target Tick Time: 1
+2022-04-22 13:04:27.9685|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 531, Average MS per Tick: 20,78, Target Tick Time: 1
+2022-04-22 13:04:27.9685|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 532, Average MS per Tick: 20,78, Target Tick Time: 1
+2022-04-22 13:04:28.0056|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 533, Average MS per Tick: 20,88, Target Tick Time: 1
+2022-04-22 13:04:28.0056|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 534, Average MS per Tick: 20,28, Target Tick Time: 1
+2022-04-22 13:04:28.0376|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 535, Average MS per Tick: 20,16, Target Tick Time: 1
+2022-04-22 13:04:28.0376|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 536, Average MS per Tick: 20,16, Target Tick Time: 1
+2022-04-22 13:04:28.0689|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 537, Average MS per Tick: 20,14, Target Tick Time: 1
+2022-04-22 13:04:28.0689|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 538, Average MS per Tick: 19,54, Target Tick Time: 1
+2022-04-22 13:04:28.1058|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 539, Average MS per Tick: 19,62, Target Tick Time: 1
+2022-04-22 13:04:28.1058|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 540, Average MS per Tick: 19,62, Target Tick Time: 1
+2022-04-22 13:04:28.1372|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 541, Average MS per Tick: 19,54, Target Tick Time: 1
+2022-04-22 13:04:28.1372|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 541, Average MS per Tick: 20,14, Target Tick Time: 1
+2022-04-22 13:04:28.1684|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 542, Average MS per Tick: 20,14, Target Tick Time: 1
+2022-04-22 13:04:28.1684|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 543, Average MS per Tick: 20,14, Target Tick Time: 1
+2022-04-22 13:04:28.2059|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 544, Average MS per Tick: 20,26, Target Tick Time: 1
+2022-04-22 13:04:28.2059|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 545, Average MS per Tick: 20,26, Target Tick Time: 1
+2022-04-22 13:04:28.2370|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 546, Average MS per Tick: 20,12, Target Tick Time: 1
+2022-04-22 13:04:28.2370|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 547, Average MS per Tick: 19,4, Target Tick Time: 1
+2022-04-22 13:04:28.2693|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 548, Average MS per Tick: 19,4, Target Tick Time: 1
+2022-04-22 13:04:28.2693|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 549, Average MS per Tick: 19,4, Target Tick Time: 1
+2022-04-22 13:04:28.3060|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 550, Average MS per Tick: 19,5, Target Tick Time: 1
+2022-04-22 13:04:28.3060|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 551, Average MS per Tick: 19,48, Target Tick Time: 1
+2022-04-22 13:04:28.3374|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 552, Average MS per Tick: 19,4, Target Tick Time: 1
+2022-04-22 13:04:28.3374|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 552, Average MS per Tick: 20, Target Tick Time: 1
+2022-04-22 13:04:28.3685|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 553, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:28.3685|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 554, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:28.4060|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 555, Average MS per Tick: 20,12, Target Tick Time: 1
+2022-04-22 13:04:28.4060|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 556, Average MS per Tick: 20,12, Target Tick Time: 1
+2022-04-22 13:04:28.4379|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 557, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:28.4379|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 558, Average MS per Tick: 20,02, Target Tick Time: 1
+2022-04-22 13:04:28.4694|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 559, Average MS per Tick: 20,04, Target Tick Time: 1
+2022-04-22 13:04:28.4694|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 559, Average MS per Tick: 20,64, Target Tick Time: 1
+2022-04-22 13:04:28.5061|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 560, Average MS per Tick: 20,74, Target Tick Time: 1
+2022-04-22 13:04:28.5061|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 560, Average MS per Tick: 21,46, Target Tick Time: 1
+2022-04-22 13:04:28.5374|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 561, Average MS per Tick: 21,38, Target Tick Time: 1
+2022-04-22 13:04:28.5374|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 562, Average MS per Tick: 21,38, Target Tick Time: 1
+2022-04-22 13:04:28.5687|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 563, Average MS per Tick: 21,38, Target Tick Time: 1
+2022-04-22 13:04:28.5687|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 564, Average MS per Tick: 21,38, Target Tick Time: 1
+2022-04-22 13:04:28.6061|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 565, Average MS per Tick: 21,5, Target Tick Time: 1
+2022-04-22 13:04:28.6061|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 566, Average MS per Tick: 20,9, Target Tick Time: 1
+2022-04-22 13:04:28.6377|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 567, Average MS per Tick: 20,74, Target Tick Time: 1
+2022-04-22 13:04:28.6377|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 568, Average MS per Tick: 20, Target Tick Time: 1
+2022-04-22 13:04:28.6695|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 569, Average MS per Tick: 20, Target Tick Time: 1
+2022-04-22 13:04:28.6695|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 570, Average MS per Tick: 20, Target Tick Time: 1
+2022-04-22 13:04:28.7063|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 571, Average MS per Tick: 20,12, Target Tick Time: 1
+2022-04-22 13:04:28.7063|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 572, Average MS per Tick: 20,12, Target Tick Time: 1
+2022-04-22 13:04:28.7375|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 573, Average MS per Tick: 19,98, Target Tick Time: 1
+2022-04-22 13:04:28.7375|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 574, Average MS per Tick: 19,26, Target Tick Time: 1
+2022-04-22 13:04:28.7701|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 575, Average MS per Tick: 19,26, Target Tick Time: 1
+2022-04-22 13:04:28.7701|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 575, Average MS per Tick: 19,88, Target Tick Time: 1
+2022-04-22 13:04:28.8065|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 576, Average MS per Tick: 20, Target Tick Time: 1
+2022-04-22 13:04:28.8065|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 576, Average MS per Tick: 20,7, Target Tick Time: 1
+2022-04-22 13:04:28.8382|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 577, Average MS per Tick: 20,62, Target Tick Time: 1
+2022-04-22 13:04:28.8382|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 577, Average MS per Tick: 21,24, Target Tick Time: 1
+2022-04-22 13:04:28.8698|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 578, Average MS per Tick: 21,24, Target Tick Time: 1
+2022-04-22 13:04:28.8698|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 579, Average MS per Tick: 21,24, Target Tick Time: 1
+2022-04-22 13:04:28.9068|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 580, Average MS per Tick: 21,36, Target Tick Time: 1
+2022-04-22 13:04:28.9068|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 581, Average MS per Tick: 21,36, Target Tick Time: 1
+2022-04-22 13:04:28.9383|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 582, Average MS per Tick: 21,26, Target Tick Time: 1
+2022-04-22 13:04:28.9383|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 582, Average MS per Tick: 21,86, Target Tick Time: 1
+2022-04-22 13:04:28.9693|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 583, Average MS per Tick: 21,86, Target Tick Time: 1
+2022-04-22 13:04:28.9693|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 583, Average MS per Tick: 21,86, Target Tick Time: 1
+2022-04-22 13:04:29.0072|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 584, Average MS per Tick: 22, Target Tick Time: 1
+2022-04-22 13:04:29.0072|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 584, Average MS per Tick: 22,74, Target Tick Time: 1
+2022-04-22 13:04:29.0384|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 585, Average MS per Tick: 22,64, Target Tick Time: 1
+2022-04-22 13:04:29.0396|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 586, Average MS per Tick: 22,64, Target Tick Time: 1
+2022-04-22 13:04:29.0711|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 587, Average MS per Tick: 22,68, Target Tick Time: 1
+2022-04-22 13:04:29.0711|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 587, Average MS per Tick: 23,3, Target Tick Time: 1
+2022-04-22 13:04:29.1074|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 588, Average MS per Tick: 23,38, Target Tick Time: 1
+2022-04-22 13:04:29.1074|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 588, Average MS per Tick: 24,08, Target Tick Time: 1
+2022-04-22 13:04:29.1387|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 589, Average MS per Tick: 24, Target Tick Time: 1
+2022-04-22 13:04:29.1387|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 590, Average MS per Tick: 24, Target Tick Time: 1
+2022-04-22 13:04:29.1699|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 591, Average MS per Tick: 23,98, Target Tick Time: 1
+2022-04-22 13:04:29.1699|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 592, Average MS per Tick: 23,38, Target Tick Time: 1
+2022-04-22 13:04:29.2078|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 593, Average MS per Tick: 23,5, Target Tick Time: 1
+2022-04-22 13:04:29.2078|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 594, Average MS per Tick: 23,5, Target Tick Time: 1
+2022-04-22 13:04:29.2391|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 595, Average MS per Tick: 23,4, Target Tick Time: 1
+2022-04-22 13:04:29.2391|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 595, Average MS per Tick: 24, Target Tick Time: 1
+2022-04-22 13:04:29.2711|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 596, Average MS per Tick: 24,02, Target Tick Time: 1
+2022-04-22 13:04:29.2711|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 597, Average MS per Tick: 24,02, Target Tick Time: 1
+2022-04-22 13:04:29.3080|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 598, Average MS per Tick: 24,1, Target Tick Time: 1
+2022-04-22 13:04:29.3080|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 599, Average MS per Tick: 23,5, Target Tick Time: 1
+2022-04-22 13:04:29.3394|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 600, Average MS per Tick: 23,38, Target Tick Time: 1
+2022-04-22 13:04:29.3394|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 601, Average MS per Tick: 22,66, Target Tick Time: 1
+2022-04-22 13:04:29.3711|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 602, Average MS per Tick: 22,66, Target Tick Time: 1
+2022-04-22 13:04:29.3711|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 602, Average MS per Tick: 23,26, Target Tick Time: 1
+2022-04-22 13:04:29.4079|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 603, Average MS per Tick: 23,38, Target Tick Time: 1
+2022-04-22 13:04:29.4079|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 604, Average MS per Tick: 23,38, Target Tick Time: 1
+2022-04-22 13:04:29.4404|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 605, Average MS per Tick: 23,28, Target Tick Time: 1
+2022-04-22 13:04:29.4404|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 606, Average MS per Tick: 23,28, Target Tick Time: 1
+2022-04-22 13:04:29.4716|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 607, Average MS per Tick: 23,28, Target Tick Time: 1
+2022-04-22 13:04:29.4716|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 608, Average MS per Tick: 23,28, Target Tick Time: 1
+2022-04-22 13:04:29.5077|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 609, Average MS per Tick: 23,36, Target Tick Time: 1
+2022-04-22 13:04:29.5077|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 610, Average MS per Tick: 23,36, Target Tick Time: 1
+2022-04-22 13:04:29.5402|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 611, Average MS per Tick: 23,28, Target Tick Time: 1
+2022-04-22 13:04:29.5402|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 611, Average MS per Tick: 23,9, Target Tick Time: 1
+2022-04-22 13:04:29.5715|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 612, Average MS per Tick: 23,92, Target Tick Time: 1
+2022-04-22 13:04:29.5715|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 613, Average MS per Tick: 23,92, Target Tick Time: 1
+2022-04-22 13:04:29.6078|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 614, Average MS per Tick: 23,98, Target Tick Time: 1
+2022-04-22 13:04:29.6078|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 615, Average MS per Tick: 23,36, Target Tick Time: 1
+2022-04-22 13:04:29.6406|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 616, Average MS per Tick: 23,28, Target Tick Time: 1
+2022-04-22 13:04:29.6406|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 617, Average MS per Tick: 22,58, Target Tick Time: 1
+2022-04-22 13:04:29.6721|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 618, Average MS per Tick: 22,56, Target Tick Time: 1
+2022-04-22 13:04:29.6721|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 619, Average MS per Tick: 21,94, Target Tick Time: 1
+2022-04-22 13:04:29.7080|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 620, Average MS per Tick: 22, Target Tick Time: 1
+2022-04-22 13:04:29.7080|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 621, Average MS per Tick: 22, Target Tick Time: 1
+2022-04-22 13:04:29.7398|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 622, Average MS per Tick: 21,9, Target Tick Time: 1
+2022-04-22 13:04:29.7398|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 623, Average MS per Tick: 21,9, Target Tick Time: 1
+2022-04-22 13:04:29.7710|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 624, Average MS per Tick: 21,88, Target Tick Time: 1
+2022-04-22 13:04:29.7710|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 625, Average MS per Tick: 21,28, Target Tick Time: 1
+2022-04-22 13:04:29.8085|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 626, Average MS per Tick: 21,4, Target Tick Time: 1
+2022-04-22 13:04:29.8085|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 627, Average MS per Tick: 20,8, Target Tick Time: 1
+2022-04-22 13:04:29.8402|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 628, Average MS per Tick: 20,66, Target Tick Time: 1
+2022-04-22 13:04:29.8402|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 628, Average MS per Tick: 20,52, Target Tick Time: 1
+2022-04-22 13:04:29.8719|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 629, Average MS per Tick: 20,52, Target Tick Time: 1
+2022-04-22 13:04:29.8719|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 630, Average MS per Tick: 20,52, Target Tick Time: 1
+2022-04-22 13:04:29.9090|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 631, Average MS per Tick: 20,6, Target Tick Time: 1
+2022-04-22 13:04:29.9090|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 632, Average MS per Tick: 19,98, Target Tick Time: 1
+2022-04-22 13:04:29.9403|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 633, Average MS per Tick: 19,88, Target Tick Time: 1
+2022-04-22 13:04:29.9403|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 633, Average MS per Tick: 19,78, Target Tick Time: 1
+2022-04-22 13:04:29.9712|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 634, Average MS per Tick: 19,78, Target Tick Time: 1
+2022-04-22 13:04:29.9712|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 634, Average MS per Tick: 20,38, Target Tick Time: 1
+2022-04-22 13:04:30.0091|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 635, Average MS per Tick: 20,54, Target Tick Time: 1
+2022-04-22 13:04:30.0091|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 635, Average MS per Tick: 21,28, Target Tick Time: 1
+2022-04-22 13:04:30.0407|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 636, Average MS per Tick: 21,16, Target Tick Time: 1
+2022-04-22 13:04:30.0407|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 637, Average MS per Tick: 21,16, Target Tick Time: 1
+2022-04-22 13:04:30.0721|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 638, Average MS per Tick: 21,16, Target Tick Time: 1
+2022-04-22 13:04:30.0721|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 639, Average MS per Tick: 20,56, Target Tick Time: 1
+2022-04-22 13:04:30.1089|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 640, Average MS per Tick: 20,62, Target Tick Time: 1
+2022-04-22 13:04:30.1089|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 641, Average MS per Tick: 20,62, Target Tick Time: 1
+2022-04-22 13:04:30.1402|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 642, Average MS per Tick: 20,54, Target Tick Time: 1
+2022-04-22 13:04:30.1402|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 642, Average MS per Tick: 21,14, Target Tick Time: 1
+2022-04-22 13:04:30.1720|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 643, Average MS per Tick: 21,14, Target Tick Time: 1
+2022-04-22 13:04:30.1720|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 644, Average MS per Tick: 21,14, Target Tick Time: 1
+2022-04-22 13:04:30.2092|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 645, Average MS per Tick: 21,26, Target Tick Time: 1
+2022-04-22 13:04:30.2092|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 645, Average MS per Tick: 21,38, Target Tick Time: 1
+2022-04-22 13:04:30.2405|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 646, Average MS per Tick: 21,28, Target Tick Time: 1
+2022-04-22 13:04:30.2405|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 647, Average MS per Tick: 21,28, Target Tick Time: 1
+2022-04-22 13:04:30.2725|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 648, Average MS per Tick: 21,26, Target Tick Time: 1
+2022-04-22 13:04:30.2725|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 649, Average MS per Tick: 21,26, Target Tick Time: 1
+2022-04-22 13:04:30.3094|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 650, Average MS per Tick: 21,38, Target Tick Time: 1
+2022-04-22 13:04:30.3094|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 650, Average MS per Tick: 22,08, Target Tick Time: 1
+2022-04-22 13:04:30.3406|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 651, Average MS per Tick: 22, Target Tick Time: 1
+2022-04-22 13:04:30.3406|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 652, Average MS per Tick: 22, Target Tick Time: 1
+2022-04-22 13:04:30.3717|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 653, Average MS per Tick: 21,96, Target Tick Time: 1
+2022-04-22 13:04:30.3717|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 654, Average MS per Tick: 21,34, Target Tick Time: 1
+2022-04-22 13:04:30.4093|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 655, Average MS per Tick: 21,46, Target Tick Time: 1
+2022-04-22 13:04:30.4093|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 655, Average MS per Tick: 22,18, Target Tick Time: 1
+2022-04-22 13:04:30.4411|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 656, Average MS per Tick: 22,12, Target Tick Time: 1
+2022-04-22 13:04:30.4411|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 656, Average MS per Tick: 22,74, Target Tick Time: 1
+2022-04-22 13:04:30.4722|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 657, Average MS per Tick: 22,72, Target Tick Time: 1
+2022-04-22 13:04:30.4722|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 658, Average MS per Tick: 22,72, Target Tick Time: 1
+2022-04-22 13:04:30.5092|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 659, Average MS per Tick: 22,82, Target Tick Time: 1
+2022-04-22 13:04:30.5092|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 660, Average MS per Tick: 22,82, Target Tick Time: 1
+2022-04-22 13:04:30.5407|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 661, Average MS per Tick: 22,74, Target Tick Time: 1
+2022-04-22 13:04:30.5407|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 662, Average MS per Tick: 22,74, Target Tick Time: 1
+2022-04-22 13:04:30.5720|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 663, Average MS per Tick: 22,72, Target Tick Time: 1
+2022-04-22 13:04:30.5720|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 664, Average MS per Tick: 22,72, Target Tick Time: 1
+2022-04-22 13:04:30.6093|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 665, Average MS per Tick: 22,86, Target Tick Time: 1
+2022-04-22 13:04:30.6093|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 665, Average MS per Tick: 23,58, Target Tick Time: 1
+2022-04-22 13:04:30.6453|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 666, Average MS per Tick: 23,56, Target Tick Time: 1
+2022-04-22 13:04:30.6453|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 666, Average MS per Tick: 24,26, Target Tick Time: 1
+2022-04-22 13:04:30.6768|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 667, Average MS per Tick: 24,26, Target Tick Time: 1
+2022-04-22 13:04:30.6768|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 668, Average MS per Tick: 23,66, Target Tick Time: 1
+2022-04-22 13:04:30.7094|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 669, Average MS per Tick: 23,68, Target Tick Time: 1
+2022-04-22 13:04:30.7094|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 669, Average MS per Tick: 24,3, Target Tick Time: 1
+2022-04-22 13:04:30.7406|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 670, Average MS per Tick: 24,2, Target Tick Time: 1
+2022-04-22 13:04:30.7406|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 671, Average MS per Tick: 24,2, Target Tick Time: 1
+2022-04-22 13:04:30.7722|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 672, Average MS per Tick: 24,2, Target Tick Time: 1
+2022-04-22 13:04:30.7722|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 672, Average MS per Tick: 24,2, Target Tick Time: 1
+2022-04-22 13:04:30.8094|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 673, Average MS per Tick: 24,32, Target Tick Time: 1
+2022-04-22 13:04:30.8094|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 673, Average MS per Tick: 24,44, Target Tick Time: 1
+2022-04-22 13:04:30.8405|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 674, Average MS per Tick: 24,3, Target Tick Time: 1
+2022-04-22 13:04:30.8405|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 674, Average MS per Tick: 24,16, Target Tick Time: 1
+2022-04-22 13:04:30.8719|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 675, Average MS per Tick: 24,16, Target Tick Time: 1
+2022-04-22 13:04:30.8719|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 676, Average MS per Tick: 24,16, Target Tick Time: 1
+2022-04-22 13:04:30.9091|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 677, Average MS per Tick: 24,28, Target Tick Time: 1
+2022-04-22 13:04:30.9091|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 677, Average MS per Tick: 25, Target Tick Time: 1
+2022-04-22 13:04:30.9407|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 678, Average MS per Tick: 24,92, Target Tick Time: 1
+2022-04-22 13:04:30.9407|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 679, Average MS per Tick: 24,92, Target Tick Time: 1
+2022-04-22 13:04:30.9723|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 680, Average MS per Tick: 24,92, Target Tick Time: 1
+2022-04-22 13:04:30.9723|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 680, Average MS per Tick: 24,92, Target Tick Time: 1
+2022-04-22 13:04:31.0093|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 681, Average MS per Tick: 25,04, Target Tick Time: 1
+2022-04-22 13:04:31.0093|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 681, Average MS per Tick: 25,76, Target Tick Time: 1
+2022-04-22 13:04:31.0409|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 682, Average MS per Tick: 25,64, Target Tick Time: 1
+2022-04-22 13:04:31.0409|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 683, Average MS per Tick: 24,92, Target Tick Time: 1
+2022-04-22 13:04:31.0722|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 684, Average MS per Tick: 24,92, Target Tick Time: 1
+2022-04-22 13:04:31.0722|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 684, Average MS per Tick: 25,52, Target Tick Time: 1
+2022-04-22 13:04:31.1093|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 685, Average MS per Tick: 25,64, Target Tick Time: 1
+2022-04-22 13:04:31.1093|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 685, Average MS per Tick: 26,36, Target Tick Time: 1
+2022-04-22 13:04:31.1405|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 686, Average MS per Tick: 26,26, Target Tick Time: 1
+2022-04-22 13:04:31.1405|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 687, Average MS per Tick: 25,56, Target Tick Time: 1
+2022-04-22 13:04:31.1719|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 688, Average MS per Tick: 25,54, Target Tick Time: 1
+2022-04-22 13:04:31.1719|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 689, Average MS per Tick: 25,54, Target Tick Time: 1
+2022-04-22 13:04:31.2090|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 690, Average MS per Tick: 25,68, Target Tick Time: 1
+2022-04-22 13:04:31.2090|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 690, Average MS per Tick: 26,4, Target Tick Time: 1
+2022-04-22 13:04:31.2407|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 691, Average MS per Tick: 26,28, Target Tick Time: 1
+2022-04-22 13:04:31.2407|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 692, Average MS per Tick: 25,56, Target Tick Time: 1
+2022-04-22 13:04:31.2722|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 693, Average MS per Tick: 25,54, Target Tick Time: 1
+2022-04-22 13:04:31.2722|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 693, Average MS per Tick: 25,52, Target Tick Time: 1
+2022-04-22 13:04:31.3095|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 694, Average MS per Tick: 25,64, Target Tick Time: 1
+2022-04-22 13:04:31.3095|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 694, Average MS per Tick: 26,36, Target Tick Time: 1
+2022-04-22 13:04:31.3409|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 695, Average MS per Tick: 26,26, Target Tick Time: 1
+2022-04-22 13:04:31.3409|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 696, Average MS per Tick: 26,26, Target Tick Time: 1
+2022-04-22 13:04:31.3722|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 697, Average MS per Tick: 26,28, Target Tick Time: 1
+2022-04-22 13:04:31.3722|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 697, Average MS per Tick: 26,88, Target Tick Time: 1
+2022-04-22 13:04:31.4095|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 698, Average MS per Tick: 27,02, Target Tick Time: 1
+2022-04-22 13:04:31.4095|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 698, Average MS per Tick: 27,74, Target Tick Time: 1
+2022-04-22 13:04:31.4417|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 699, Average MS per Tick: 27,64, Target Tick Time: 1
+2022-04-22 13:04:31.4417|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 700, Average MS per Tick: 26,92, Target Tick Time: 1
+2022-04-22 13:04:31.4731|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 701, Average MS per Tick: 26,82, Target Tick Time: 1
+2022-04-22 13:04:31.4731|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 701, Average MS per Tick: 26,72, Target Tick Time: 1
+2022-04-22 13:04:31.5096|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 702, Average MS per Tick: 26,82, Target Tick Time: 1
+2022-04-22 13:04:31.5096|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 703, Average MS per Tick: 26,82, Target Tick Time: 1
+2022-04-22 13:04:31.5409|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 704, Average MS per Tick: 26,78, Target Tick Time: 1
+2022-04-22 13:04:31.5409|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 705, Average MS per Tick: 26,16, Target Tick Time: 1
+2022-04-22 13:04:31.5722|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 706, Average MS per Tick: 26,16, Target Tick Time: 1
+2022-04-22 13:04:31.5722|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 706, Average MS per Tick: 26,76, Target Tick Time: 1
+2022-04-22 13:04:31.6096|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 707, Average MS per Tick: 26,88, Target Tick Time: 1
+2022-04-22 13:04:31.6096|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 708, Average MS per Tick: 26,28, Target Tick Time: 1
+2022-04-22 13:04:31.6408|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 709, Average MS per Tick: 26,14, Target Tick Time: 1
+2022-04-22 13:04:31.6408|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 710, Average MS per Tick: 25,42, Target Tick Time: 1
+2022-04-22 13:04:31.6725|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 711, Average MS per Tick: 25,42, Target Tick Time: 1
+2022-04-22 13:04:31.6725|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 712, Average MS per Tick: 24,82, Target Tick Time: 1
+2022-04-22 13:04:31.7100|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 713, Average MS per Tick: 24,92, Target Tick Time: 1
+2022-04-22 13:04:31.7100|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 714, Average MS per Tick: 24,92, Target Tick Time: 1
+2022-04-22 13:04:31.7412|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 715, Average MS per Tick: 24,8, Target Tick Time: 1
+2022-04-22 13:04:31.7412|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 715, Average MS per Tick: 24,68, Target Tick Time: 1
+2022-04-22 13:04:31.7737|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 716, Average MS per Tick: 24,7, Target Tick Time: 1
+2022-04-22 13:04:31.7737|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 717, Average MS per Tick: 24,7, Target Tick Time: 1
+2022-04-22 13:04:31.8103|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 718, Average MS per Tick: 24,8, Target Tick Time: 1
+2022-04-22 13:04:31.8103|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 718, Average MS per Tick: 24,9, Target Tick Time: 1
+2022-04-22 13:04:31.8420|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 719, Average MS per Tick: 24,78, Target Tick Time: 1
+2022-04-22 13:04:31.8420|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 720, Average MS per Tick: 24,06, Target Tick Time: 1
+2022-04-22 13:04:31.8732|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 721, Average MS per Tick: 24,06, Target Tick Time: 1
+2022-04-22 13:04:31.8732|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 721, Average MS per Tick: 24,66, Target Tick Time: 1
+2022-04-22 13:04:31.9105|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 722, Average MS per Tick: 24,78, Target Tick Time: 1
+2022-04-22 13:04:31.9105|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 723, Average MS per Tick: 24,18, Target Tick Time: 1
+2022-04-22 13:04:31.9421|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 724, Average MS per Tick: 24,06, Target Tick Time: 1
+2022-04-22 13:04:31.9421|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 724, Average MS per Tick: 23,94, Target Tick Time: 1
+2022-04-22 13:04:31.9735|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 725, Average MS per Tick: 23,94, Target Tick Time: 1
+2022-04-22 13:04:31.9735|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 726, Average MS per Tick: 23,94, Target Tick Time: 1
+2022-04-22 13:04:32.0112|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 727, Average MS per Tick: 24,08, Target Tick Time: 1
+2022-04-22 13:04:32.0112|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 727, Average MS per Tick: 24,8, Target Tick Time: 1
+2022-04-22 13:04:32.0466|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 728, Average MS per Tick: 24,76, Target Tick Time: 1
+2022-04-22 13:04:32.0466|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 729, Average MS per Tick: 24,04, Target Tick Time: 1
+2022-04-22 13:04:32.0781|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 730, Average MS per Tick: 24,04, Target Tick Time: 1
+2022-04-22 13:04:32.0781|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 730, Average MS per Tick: 24,64, Target Tick Time: 1
+2022-04-22 13:04:32.1106|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 731, Average MS per Tick: 24,66, Target Tick Time: 1
+2022-04-22 13:04:32.1106|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 732, Average MS per Tick: 24,06, Target Tick Time: 1
+2022-04-22 13:07:02.1177|INFO|MapDrawer.ManagerSystem.LoggingManager|Hello World
+2022-04-22 13:07:02.3663|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 0, Average MS per Tick: 0, Target Tick Time: 1
+2022-04-22 13:07:02.3973|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 16, Target Tick Time: 1
+2022-04-22 13:07:02.3973|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 21,333333333333333333333333333, Target Tick Time: 1
+2022-04-22 13:07:02.4041|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2, Average MS per Tick: 17,5, Target Tick Time: 1
+2022-04-22 13:07:02.4208|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3, Average MS per Tick: 17,4, Target Tick Time: 1
+2022-04-22 13:07:02.4375|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4, Average MS per Tick: 17,333333333333333333333333333, Target Tick Time: 1
+2022-04-22 13:07:02.4579|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 5, Average MS per Tick: 17,714285714285714285714285714, Target Tick Time: 1
+2022-04-22 13:07:02.4709|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 6, Average MS per Tick: 17,125, Target Tick Time: 1
+2022-04-22 13:07:02.4909|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 7, Average MS per Tick: 17,444444444444444444444444444, Target Tick Time: 1
+2022-04-22 13:07:02.5073|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 8, Average MS per Tick: 17,4, Target Tick Time: 1
+2022-04-22 13:07:02.5257|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 9, Average MS per Tick: 17,454545454545454545454545455, Target Tick Time: 1
+2022-04-22 13:07:02.5400|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 10, Average MS per Tick: 17,166666666666666666666666667, Target Tick Time: 1
+2022-04-22 13:07:02.5400|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 11, Average MS per Tick: 17, Target Tick Time: 1
+2022-04-22 13:07:02.5708|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 12, Average MS per Tick: 16,928571428571428571428571429, Target Tick Time: 1
+2022-04-22 13:07:02.5958|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 13, Average MS per Tick: 17,466666666666666666666666667, Target Tick Time: 1
+2022-04-22 13:07:02.6099|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 14, Average MS per Tick: 17,25, Target Tick Time: 1
+2022-04-22 13:07:02.6244|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 15, Average MS per Tick: 17,117647058823529411764705882, Target Tick Time: 1
+2022-04-22 13:07:02.6402|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 16, Average MS per Tick: 17, Target Tick Time: 1
+2022-04-22 13:07:02.6573|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 17, Average MS per Tick: 17,052631578947368421052631579, Target Tick Time: 1
+2022-04-22 13:07:02.6728|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 18, Average MS per Tick: 16,95, Target Tick Time: 1
+2022-04-22 13:07:02.6984|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 19, Average MS per Tick: 17,380952380952380952380952381, Target Tick Time: 1
+2022-04-22 13:07:02.6984|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 20, Average MS per Tick: 16,818181818181818181818181818, Target Tick Time: 1
+2022-04-22 13:07:02.7303|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 21, Average MS per Tick: 17,260869565217391304347826087, Target Tick Time: 1
+2022-04-22 13:07:02.7303|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 22, Average MS per Tick: 16,833333333333333333333333333, Target Tick Time: 1
+2022-04-22 13:07:02.7637|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 23, Average MS per Tick: 17,2, Target Tick Time: 1
+2022-04-22 13:07:02.7637|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 24, Average MS per Tick: 16,807692307692307692307692308, Target Tick Time: 1
+2022-04-22 13:07:02.7874|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 25, Average MS per Tick: 16,814814814814814814814814815, Target Tick Time: 1
+2022-04-22 13:07:02.8136|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 26, Average MS per Tick: 17,142857142857142857142857143, Target Tick Time: 1
+2022-04-22 13:07:02.8276|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 27, Average MS per Tick: 17,034482758620689655172413793, Target Tick Time: 1
+2022-04-22 13:07:02.8276|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 28, Average MS per Tick: 16,8, Target Tick Time: 1
+2022-04-22 13:07:02.8541|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 29, Average MS per Tick: 16,774193548387096774193548387, Target Tick Time: 1
+2022-04-22 13:07:02.8708|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 30, Average MS per Tick: 16,78125, Target Tick Time: 1
+2022-04-22 13:07:02.8875|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 31, Average MS per Tick: 16,787878787878787878787878788, Target Tick Time: 1
+2022-04-22 13:07:02.9041|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 32, Average MS per Tick: 16,764705882352941176470588235, Target Tick Time: 1
+2022-04-22 13:07:02.9208|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 33, Average MS per Tick: 16,771428571428571428571428571, Target Tick Time: 1
+2022-04-22 13:07:02.9375|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 34, Average MS per Tick: 16,777777777777777777777777778, Target Tick Time: 1
+2022-04-22 13:07:02.9660|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 35, Average MS per Tick: 17,081081081081081081081081081, Target Tick Time: 1
+2022-04-22 13:07:02.9660|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 36, Average MS per Tick: 16,763157894736842105263157895, Target Tick Time: 1
+2022-04-22 13:07:02.9875|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 37, Average MS per Tick: 16,769230769230769230769230769, Target Tick Time: 1
+2022-04-22 13:07:03.0202|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 38, Average MS per Tick: 17,15, Target Tick Time: 1
+2022-04-22 13:07:03.0202|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 39, Average MS per Tick: 16,756097560975609756097560976, Target Tick Time: 1
+2022-04-22 13:07:03.0375|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 40, Average MS per Tick: 16,761904761904761904761904762, Target Tick Time: 1
+2022-04-22 13:07:03.0609|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 41, Average MS per Tick: 16,906976744186046511627906977, Target Tick Time: 1
+2022-04-22 13:07:03.0609|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 42, Average MS per Tick: 16,75, Target Tick Time: 1
+2022-04-22 13:07:03.1014|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 43, Average MS per Tick: 17,066666666666666666666666667, Target Tick Time: 1
+2022-04-22 13:07:03.1014|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 44, Average MS per Tick: 16,739130434782608695652173913, Target Tick Time: 1
+2022-04-22 13:07:03.1014|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 45, Average MS per Tick: 16,744680851063829787234042553, Target Tick Time: 1
+2022-04-22 13:07:03.1422|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 46, Average MS per Tick: 16,833333333333333333333333333, Target Tick Time: 1
+2022-04-22 13:07:03.1541|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 47, Average MS per Tick: 16,734693877551020408163265306, Target Tick Time: 1
+2022-04-22 13:07:03.1708|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 48, Average MS per Tick: 16,74, Target Tick Time: 1
+2022-04-22 13:07:03.2032|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 49, Average MS per Tick: 17,38, Target Tick Time: 1
+2022-04-22 13:07:03.2032|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 50, Average MS per Tick: 16,78, Target Tick Time: 1
+2022-04-22 13:07:03.2208|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 51, Average MS per Tick: 16,46, Target Tick Time: 1
+2022-04-22 13:07:03.2442|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 52, Average MS per Tick: 16,8, Target Tick Time: 1
+2022-04-22 13:07:03.2442|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 53, Average MS per Tick: 16,66, Target Tick Time: 1
+2022-04-22 13:07:03.2853|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 54, Average MS per Tick: 16,96, Target Tick Time: 1
+2022-04-22 13:07:03.2853|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 55, Average MS per Tick: 16,6, Target Tick Time: 1
+2022-04-22 13:07:03.3041|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 56, Average MS per Tick: 16,66, Target Tick Time: 1
+2022-04-22 13:07:03.3258|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 57, Average MS per Tick: 16,7, Target Tick Time: 1
+2022-04-22 13:07:03.3375|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 58, Average MS per Tick: 16,6, Target Tick Time: 1
+2022-04-22 13:07:03.3375|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 59, Average MS per Tick: 16,56, Target Tick Time: 1
+2022-04-22 13:07:03.3876|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 60, Average MS per Tick: 16,96, Target Tick Time: 1
+2022-04-22 13:07:03.3876|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 61, Average MS per Tick: 16,68, Target Tick Time: 1
+2022-04-22 13:07:03.4041|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 62, Average MS per Tick: 16,66, Target Tick Time: 1
+2022-04-22 13:07:03.4208|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 63, Average MS per Tick: 16,5, Target Tick Time: 1
+2022-04-22 13:07:03.4375|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 64, Average MS per Tick: 16,56, Target Tick Time: 1
+2022-04-22 13:07:03.4701|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 65, Average MS per Tick: 16,9, Target Tick Time: 1
+2022-04-22 13:07:03.4701|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 66, Average MS per Tick: 16,64, Target Tick Time: 1
+2022-04-22 13:07:03.4875|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 67, Average MS per Tick: 16,6, Target Tick Time: 1
+2022-04-22 13:07:03.5114|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 68, Average MS per Tick: 16,78, Target Tick Time: 1
+2022-04-22 13:07:03.5114|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 69, Average MS per Tick: 16,44, Target Tick Time: 1
+2022-04-22 13:07:03.5520|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 70, Average MS per Tick: 16,96, Target Tick Time: 1
+2022-04-22 13:07:03.5541|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 71, Average MS per Tick: 16,46, Target Tick Time: 1
+2022-04-22 13:07:03.5541|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 72, Average MS per Tick: 16,66, Target Tick Time: 1
+2022-04-22 13:07:03.5930|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 73, Average MS per Tick: 16,58, Target Tick Time: 1
+2022-04-22 13:07:03.6041|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 74, Average MS per Tick: 16,66, Target Tick Time: 1
+2022-04-22 13:07:03.6041|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 75, Average MS per Tick: 16,66, Target Tick Time: 1
+2022-04-22 13:16:15.0907|INFO|MapDrawer.ManagerSystem.LoggingManager|Hello World
+2022-04-22 13:16:15.3639|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 0, Average MS per Tick: 0, Target Tick Time: 20
+2022-04-22 13:16:15.3954|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 16, Target Tick Time: 20
+2022-04-22 13:16:15.3954|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 21,333333333333333333333333333, Target Tick Time: 20
+2022-04-22 13:16:15.4026|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 1, Average MS per Tick: 24, Target Tick Time: 20
+2022-04-22 13:16:15.4212|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 2, Average MS per Tick: 24,4, Target Tick Time: 20
+2022-04-22 13:16:15.4396|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 3, Average MS per Tick: 23,333333333333333333333333333, Target Tick Time: 20
+2022-04-22 13:16:15.4559|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 4, Average MS per Tick: 22,428571428571428571428571429, Target Tick Time: 20
+2022-04-22 13:16:15.4722|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 5, Average MS per Tick: 21,625, Target Tick Time: 20
+2022-04-22 13:16:15.4886|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 6, Average MS per Tick: 21, Target Tick Time: 20
+2022-04-22 13:16:15.5053|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 7, Average MS per Tick: 20,6, Target Tick Time: 20
+2022-04-22 13:16:15.5216|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 8, Average MS per Tick: 20,181818181818181818181818182, Target Tick Time: 20
+2022-04-22 13:16:15.5383|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 9, Average MS per Tick: 19,916666666666666666666666667, Target Tick Time: 20
+2022-04-22 13:16:15.5550|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 10, Average MS per Tick: 19,692307692307692307692307692, Target Tick Time: 20
+2022-04-22 13:16:15.5717|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 11, Average MS per Tick: 19,428571428571428571428571429, Target Tick Time: 20
+2022-04-22 13:16:15.5882|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 12, Average MS per Tick: 19,266666666666666666666666667, Target Tick Time: 20
+2022-04-22 13:16:15.6048|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 13, Average MS per Tick: 19,0625, Target Tick Time: 20
+2022-04-22 13:16:15.6217|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 14, Average MS per Tick: 18,941176470588235294117647059, Target Tick Time: 20
+2022-04-22 13:16:15.6388|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 15, Average MS per Tick: 18,833333333333333333333333333, Target Tick Time: 20
+2022-04-22 13:16:15.6548|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 16, Average MS per Tick: 18,684210526315789473684210526, Target Tick Time: 20
+2022-04-22 13:16:15.6712|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 17, Average MS per Tick: 18,6, Target Tick Time: 20
+2022-04-22 13:16:15.6879|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 18, Average MS per Tick: 18,523809523809523809523809524, Target Tick Time: 20
+2022-04-22 13:16:15.7034|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 18, Average MS per Tick: 18,454545454545454545454545455, Target Tick Time: 20
+2022-04-22 13:16:15.7197|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 19, Average MS per Tick: 19, Target Tick Time: 20
+2022-04-22 13:16:15.7368|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 20, Average MS per Tick: 18,916666666666666666666666667, Target Tick Time: 20
+2022-04-22 13:16:15.7535|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 21, Average MS per Tick: 18,84, Target Tick Time: 20
+2022-04-22 13:16:15.7700|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 22, Average MS per Tick: 18,769230769230769230769230769, Target Tick Time: 20
+2022-04-22 13:16:15.7866|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 23, Average MS per Tick: 18,666666666666666666666666667, Target Tick Time: 20
+2022-04-22 13:16:15.8039|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 24, Average MS per Tick: 18,642857142857142857142857143, Target Tick Time: 20
+2022-04-22 13:16:15.8202|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 25, Average MS per Tick: 18,55172413793103448275862069, Target Tick Time: 20
+2022-04-22 13:16:15.8367|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 26, Average MS per Tick: 18,466666666666666666666666667, Target Tick Time: 20
+2022-04-22 13:16:15.8367|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 27, Average MS per Tick: 18,41935483870967741935483871, Target Tick Time: 20
+2022-04-22 13:16:15.8703|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 28, Average MS per Tick: 18,375, Target Tick Time: 20
+2022-04-22 13:16:15.8868|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 29, Average MS per Tick: 18,333333333333333333333333333, Target Tick Time: 20
+2022-04-22 13:16:15.8868|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 30, Average MS per Tick: 18,264705882352941176470588235, Target Tick Time: 20
+2022-04-22 13:16:15.9199|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 31, Average MS per Tick: 18,228571428571428571428571429, Target Tick Time: 20
+2022-04-22 13:16:15.9369|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 32, Average MS per Tick: 18,194444444444444444444444444, Target Tick Time: 20
+2022-04-22 13:16:15.9531|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 33, Average MS per Tick: 18,135135135135135135135135135, Target Tick Time: 20
+2022-04-22 13:16:15.9704|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 34, Average MS per Tick: 18,105263157894736842105263158, Target Tick Time: 20
+2022-04-22 13:16:16.0263|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 35, Average MS per Tick: 19,076923076923076923076923077, Target Tick Time: 20
+2022-04-22 13:16:16.0263|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 35, Average MS per Tick: 20, Target Tick Time: 20
+2022-04-22 13:16:16.0263|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 35, Average MS per Tick: 20,878048780487804878048780488, Target Tick Time: 20
+2022-04-22 13:16:16.0583|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 36, Average MS per Tick: 21,142857142857142857142857143, Target Tick Time: 20
+2022-04-22 13:16:16.0583|INFO|MapDrawer.ManagerSystem.LoggingManager|Tick Number: 36, Average MS per Tick: 21,395348837209302325581395349, Target Tick Time: 20
