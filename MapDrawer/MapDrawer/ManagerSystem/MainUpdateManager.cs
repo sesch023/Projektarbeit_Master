@@ -29,8 +29,13 @@ namespace MapDrawer.ManagerSystem
         {
             UpdatableEvent action = new KeyAction(Keys.Enter, ActionType.KeyDown);
             action.AddSubscriber((triggeredBy) => { LoggingManager.Instance.Info("Hello Enter!"); });
-            _updatables.Add(action);
-            _updatables.Add(TimeManager.Instance);
+            RegisterUpdatable(action);
+            RegisterUpdatable(TimeManager.Instance);
+        }
+
+        public void RegisterUpdatable(IUpdatable updatable)
+        {
+            _updatables.Add(updatable);
         }
 
         public void Update()
