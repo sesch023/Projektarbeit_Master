@@ -31,13 +31,14 @@ namespace MapDrawer.ManagerSystem
             action.AddSubscriber((triggeredBy) => { LoggingManager.Instance.Info("Hello Enter!"); });
             RegisterUpdatable(action);
             RegisterUpdatable(TimeManager.Instance);
+            
         }
 
         public void RegisterUpdatable(IUpdatable updatable)
         {
             _updatables.Add(updatable);
         }
-
+        
         public void Update()
         {
             foreach (var variableUpdatable in _updatables)
