@@ -6,10 +6,10 @@ namespace MapDrawer.EventSystem
     {
         public void TriggerSubscribers();
 
-        public void AddSubscriber(ISubscriber subscriber);
+        public void AddSubscriber(Subscriber subscriber);
 
-        public void AddSubscribers(IEnumerable<ISubscriber> subscribers);
+        public void AddSubscribers(IEnumerable<Subscriber> subscribers);
 
-        public void RemoveSubscriber(ISubscriber subscriber);
+        public void RemoveSubscriber(Subscriber subscriber);
     }
 }

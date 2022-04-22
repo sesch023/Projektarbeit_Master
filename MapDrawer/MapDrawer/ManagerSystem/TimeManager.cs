@@ -9,15 +9,15 @@ namespace MapDrawer.ManagerSystem
     public class TimeManager : IManager, IUpdatable
     {
         public static TimeManager Instance { get; }
-
+        
         private readonly Stopwatch _timer;
         public long PassedTime => _timer.ElapsedMilliseconds;
         public long PassedTicks { get; private set; } = 0;
         public long LastTickTime { get; private set; } = 0;
 
-        private uint _tps = 20;
+        private uint _tps = 1;
         // Count Tick at this percent of the Delta Milli.
-        private const double MinDeltaRatio = 0.8;
+        private const double MinDeltaRatio = 0.9;
 
         protected long SecondLastTickTime = 0;
         private long _tpsDeltaMilli;
@@ -50,15 +50,20 @@ namespace MapDrawer.ManagerSystem
             return (long)((1000.0 / _tps) * MinDeltaRatio);
         }
 
-        public virtual void Update()
+        public void Update()
         {
             var time = PassedTime;
             if (time >= LastTickTime + _tpsDeltaMilli)
             {
                 PassedTicks++;
+                TickPassed();
                 SecondLastTickTime = LastTickTime;
                 LastTickTime = time;
             }
+        }
+
+        protected virtual void TickPassed()
+        {
         }
 
         public long TicksPassedSince(long since)

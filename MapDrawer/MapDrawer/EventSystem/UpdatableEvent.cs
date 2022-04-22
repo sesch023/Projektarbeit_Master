@@ -6,9 +6,9 @@ namespace MapDrawer.EventSystem
     {
         public UpdatableEvent(){ }
         
-        public UpdatableEvent(ISubscriber subscriber) : base(subscriber){}
+        public UpdatableEvent(Subscriber subscriber) : base(subscriber){}
 
-        public UpdatableEvent(IEnumerable<ISubscriber> subscribers) : base(subscribers){}
+        public UpdatableEvent(IEnumerable<Subscriber> subscribers) : base(subscribers){}
         
         public abstract void Update();
     }

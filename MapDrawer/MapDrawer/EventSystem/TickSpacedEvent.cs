@@ -14,13 +14,13 @@ namespace MapDrawer.EventSystem
             _lastTick = 0;
         }
 
-        public TickSpacedEvent(ISubscriber subscriber, long tickSpacing) : base(subscriber)
+        public TickSpacedEvent(Subscriber subscriber, long tickSpacing) : base(subscriber)
         {
             _tickSpacing = tickSpacing;
             _lastTick = 0;
         }
 
-        public TickSpacedEvent(IEnumerable<ISubscriber> subscribers, long tickSpacing) : base(subscribers)
+        public TickSpacedEvent(IEnumerable<Subscriber> subscribers, long tickSpacing) : base(subscribers)
         {
             _tickSpacing = tickSpacing;
             _lastTick = 0;

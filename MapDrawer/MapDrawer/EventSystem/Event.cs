@@ -2,43 +2,45 @@
 
 namespace MapDrawer.EventSystem
 {
+    public delegate void Subscriber(Event triggeredBy);
+    
     public abstract class Event : IEvent
     {
-        private readonly List<ISubscriber> _subscribers;
+        private readonly List<Subscriber> _subscribers;
 
         public Event()
         {
-            _subscribers = new List<ISubscriber>();
+            _subscribers = new List<Subscriber>();
         }
         
-        public Event(ISubscriber subscriber) : base()
+        public Event(Subscriber subscriber) : base()
         {
             AddSubscriber(subscriber);
         }
 
-        public Event(IEnumerable<ISubscriber> subscribers) : base()
+        public Event(IEnumerable<Subscriber> subscribers) : base()
         {
             AddSubscribers(subscribers);
         }
 
         public void TriggerSubscribers()
         {
-            foreach(ISubscriber subscriber in _subscribers){
-                subscriber.Trigger(this);
+            foreach(Subscriber subscriber in _subscribers){
+                subscriber(this);
             }
         }
 
-        public void AddSubscriber(ISubscriber subscriber)
+        public void AddSubscriber(Subscriber subscriber)
         {
             _subscribers.Add(subscriber);
         }
 
-        public void AddSubscribers(IEnumerable<ISubscriber> subscribers)
+        public void AddSubscribers(IEnumerable<Subscriber> subscribers)
         {
             _subscribers.AddRange(subscribers);
         }
 
-        public void RemoveSubscriber(ISubscriber subscriber)
+        public void RemoveSubscriber(Subscriber subscriber)
         {
             _subscribers.Remove(subscriber);
         }

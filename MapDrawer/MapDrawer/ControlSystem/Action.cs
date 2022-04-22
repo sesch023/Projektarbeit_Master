@@ -4,7 +4,7 @@ using Microsoft.Xna.Framework.Input;
 
 namespace MapDrawer.ControlSystem
 {
-    public enum Type
+    public enum ActionType
     {   
         KeyHold,
         KeyNotHold,
@@ -15,48 +15,48 @@ namespace MapDrawer.ControlSystem
     public class KeyAction : UpdatableEvent
     {
         private readonly Keys _key;
-        private readonly Type _type;
+        private readonly ActionType _actionType;
 
         private bool _wasHold;
 
         private delegate bool CheckType(KeyAction keyAction);
 
-        private static readonly Dictionary<Type, CheckType> TypeDelegate;
+        private static readonly Dictionary<ActionType, CheckType> TypeDelegate;
 
         static KeyAction()
         {
-            TypeDelegate = new Dictionary<Type, CheckType>();
-            TypeDelegate[Type.KeyHold] = (keyAction) => { 
+            TypeDelegate = new Dictionary<ActionType, CheckType>();
+            TypeDelegate[ActionType.KeyHold] = (keyAction) => { 
                 keyAction._wasHold = CheckKeyHold(keyAction);
                 return keyAction._wasHold;
             };
-            TypeDelegate[Type.KeyDown] = (keyAction) => { 
+            TypeDelegate[ActionType.KeyDown] = (keyAction) => { 
                 bool down = CheckKeyHold(keyAction);
                 bool ret = !keyAction._wasHold && down;
                 keyAction._wasHold = down;
                 return ret;
             };
-            TypeDelegate[Type.KeyUp] = (keyAction) => { 
+            TypeDelegate[ActionType.KeyUp] = (keyAction) => { 
                 bool up = !CheckKeyHold(keyAction);
                 bool ret = keyAction._wasHold && up;
                 keyAction._wasHold = !up;
                 return ret;
             };
-            TypeDelegate[Type.KeyNotHold] = (keyAction) => { 
+            TypeDelegate[ActionType.KeyNotHold] = (keyAction) => { 
                 keyAction._wasHold = CheckKeyHold(keyAction);
                 return !keyAction._wasHold;
             };
         }
 
-        public KeyAction(Keys key, Type type)
+        public KeyAction(Keys key, ActionType actionType)
         {
-            _type = type;
+            _actionType = actionType;
             _key = key;
         }
         
         public override void Update()
         {
-            if (TypeDelegate[_type](this))
+            if (TypeDelegate[_actionType](this))
             {
                 TriggerSubscribers();
             }

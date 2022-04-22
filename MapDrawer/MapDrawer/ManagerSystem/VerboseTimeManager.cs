@@ -15,9 +15,8 @@ namespace MapDrawer.ManagerSystem
             _mavg = new MovingAverageLong(MavgSize);
         }
 
-        public override void Update()
+        protected override void TickPassed()
         {
-            base.Update();
             _mavg.ComputeAverage(LastTickTime - SecondLastTickTime);
             LoggingManager.Instance.Info(this);
         }
@@ -27,6 +26,4 @@ namespace MapDrawer.ManagerSystem
             return base.ToString() + ", Average MS per Tick: " + _mavg.Average + ", Target Tick Time: " + 1000.0/Tps;
         }
     }
-    
-    
 }

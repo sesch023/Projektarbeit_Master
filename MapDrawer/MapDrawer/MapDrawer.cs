@@ -77,7 +77,7 @@ namespace MapDrawer
                 Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
             
-            TimeManager.Instance.Update();
+            MainUpdateManager.Instance.Update();
 
             base.Update(gameTime);
         }
