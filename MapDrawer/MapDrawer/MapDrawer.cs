@@ -1,5 +1,6 @@
 ﻿using System;
 using MapDrawer.ManagerSystem;
+using MapDrawer.CameraSystem;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
@@ -77,8 +78,9 @@ namespace MapDrawer
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
-            _spriteBatch.Begin();
-            /*
+            _spriteBatch.Begin(SpriteSortMode.FrontToBack, BlendState.AlphaBlend, null, null, 
+                null, null, SimulationManager.Instance.CameraController.Camera2D.GetTransform());
+            
             for(var x = 0; x < sizeX; x++)
             {
                 for (var y = 0; y < sizeY; y++)
@@ -87,7 +89,7 @@ namespace MapDrawer
                                       _colormap[x, y]);
                 }
             }
-            */
+            
 
             _spriteBatch.End();
 

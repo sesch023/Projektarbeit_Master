@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using MapDrawer.CameraSystem;
 using MapDrawer.ControlSystem;
 using MapDrawer.EventSystem;
 using Microsoft.Xna.Framework.Input;

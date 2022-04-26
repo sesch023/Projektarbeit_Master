@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿using System;
+using System.Diagnostics;
 using MapDrawer.EventSystem;
 
 namespace MapDrawer.ManagerSystem
@@ -31,6 +32,8 @@ namespace MapDrawer.ManagerSystem
         public long PassedTime => _timer.ElapsedMilliseconds;
         public long PassedTicks { get; private set; }
         public long LastTickTime { get; private set; }
+        public long LastUpdateTime { get; private set; }
+        public long LastUpdateDuration { get; private set; }
 
         public uint Tps
         {
@@ -45,6 +48,8 @@ namespace MapDrawer.ManagerSystem
         public void Update()
         {
             var time = PassedTime;
+            LastUpdateDuration = time - LastUpdateTime;
+            LastUpdateTime = time;
             if (time >= LastTickTime + _tpsDeltaMilli)
             {
                 PassedTicks++;
