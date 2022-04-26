@@ -1,6 +1,4 @@
-﻿using MapDrawer.EventSystem;
-
-namespace MapDrawer.ManagerSystem
+﻿namespace MapDrawer.ManagerSystem
 {
     public interface IManager
     {

@@ -1,21 +1,19 @@
-﻿using System.Windows.Forms;
-using MapDrawer.EventSystem;
+﻿using MapDrawer.EventSystem;
 using Microsoft.Xna.Framework.Graphics;
 
 namespace MapDrawer
 {
     public class Camera : IUpdatable
     {
-        protected Viewport _viewport;
-        
+        protected Viewport Viewport;
+
         public Camera(Viewport viewport)
         {
-            _viewport = viewport;
+            Viewport = viewport;
         }
-        
+
         public void Update()
         {
-            
         }
     }
 }

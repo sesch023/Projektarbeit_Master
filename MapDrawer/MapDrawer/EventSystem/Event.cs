@@ -3,7 +3,7 @@
 namespace MapDrawer.EventSystem
 {
     public delegate void Subscriber(Event triggeredBy);
-    
+
     public abstract class Event : IEvent
     {
         private readonly List<Subscriber> _subscribers;
@@ -12,22 +12,20 @@ namespace MapDrawer.EventSystem
         {
             _subscribers = new List<Subscriber>();
         }
-        
-        public Event(Subscriber subscriber) : base()
+
+        public Event(Subscriber subscriber) : this()
         {
             AddSubscriber(subscriber);
         }
 
-        public Event(IEnumerable<Subscriber> subscribers) : base()
+        public Event(IEnumerable<Subscriber> subscribers) : this()
         {
             AddSubscribers(subscribers);
         }
 
         public void TriggerSubscribers()
         {
-            foreach(Subscriber subscriber in _subscribers){
-                subscriber(this);
-            }
+            foreach (var subscriber in _subscribers) subscriber(this);
         }
 
         public void AddSubscriber(Subscriber subscriber)

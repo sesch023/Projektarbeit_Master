@@ -2,12 +2,14 @@
 
 namespace MapDrawer.ManagerSystem
 {
-    public class LoggingManager : IManager
+    public sealed class LoggingManager : IManager
     {
-        public const bool EnableDebugMode = true;
-        public static Logger Instance { get; } = NLog.LogManager.GetCurrentClassLogger();
+        public const bool VerboseTimeManager = true;
+
         private LoggingManager()
         {
         }
+
+        public static Logger Instance { get; } = LogManager.GetCurrentClassLogger();
     }
 }

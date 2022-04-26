@@ -1,26 +1,36 @@
-﻿using System;
-using System.Diagnostics;
-using System.Drawing.Printing;
+﻿using System.Diagnostics;
 using MapDrawer.EventSystem;
-using MapDrawer.Util;
 
 namespace MapDrawer.ManagerSystem
 {
     public class TimeManager : IManager, IUpdatable
     {
-        public static TimeManager Instance { get; }
-        
+        // Count Tick at this percent of the Delta Milli.
+        private const double MinDeltaRatio = 1.0;
+
         private readonly Stopwatch _timer;
-        public long PassedTime => _timer.ElapsedMilliseconds;
-        public long PassedTicks { get; private set; } = 0;
-        public long LastTickTime { get; private set; } = 0;
 
         private uint _tps = 1;
-        // Count Tick at this percent of the Delta Milli.
-        private const double MinDeltaRatio = 0.9;
 
-        protected long SecondLastTickTime = 0;
         private long _tpsDeltaMilli;
+
+        static TimeManager()
+        {
+            Instance = LoggingManager.VerboseTimeManager ? new VerboseTimeManager() : new TimeManager();
+        }
+
+        protected TimeManager()
+        {
+            _timer = new Stopwatch();
+            _tpsDeltaMilli = CalculateMilliDelta();
+            PassedTicks = 0;
+            _timer.Start();
+        }
+
+        public static TimeManager Instance { get; }
+        public long PassedTime => _timer.ElapsedMilliseconds;
+        public long PassedTicks { get; private set; }
+        public long LastTickTime { get; private set; }
 
         public uint Tps
         {
@@ -32,37 +42,23 @@ namespace MapDrawer.ManagerSystem
             }
         }
 
-        static TimeManager()
-        {
-            Instance = LoggingManager.EnableDebugMode ? new VerboseTimeManager() : new TimeManager();
-        }
-
-        protected TimeManager()
-        {
-            _timer = new Stopwatch();
-            _tpsDeltaMilli = CalculateMilliDelta();
-            PassedTicks = 0;
-            _timer.Start();
-        }
-
-        private long CalculateMilliDelta()
-        {
-            return (long)((1000.0 / _tps) * MinDeltaRatio);
-        }
-
         public void Update()
         {
             var time = PassedTime;
             if (time >= LastTickTime + _tpsDeltaMilli)
             {
                 PassedTicks++;
-                TickPassed();
-                SecondLastTickTime = LastTickTime;
+                TickPassed(time);
                 LastTickTime = time;
             }
         }
 
-        protected virtual void TickPassed()
+        private long CalculateMilliDelta()
+        {
+            return (long) (1000.0 / _tps * MinDeltaRatio);
+        }
+
+        protected virtual void TickPassed(long time)
         {
         }
 

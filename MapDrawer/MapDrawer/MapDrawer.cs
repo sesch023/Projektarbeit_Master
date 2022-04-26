@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Windows.Forms.VisualStyles;
 using MapDrawer.ManagerSystem;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
@@ -14,11 +13,11 @@ namespace MapDrawer
 
         private const int pixelPerX = 10;
         private const int pixelPerY = 10;
-
-        private GraphicsDeviceManager _graphics;
-        private SpriteBatch _spriteBatch;
         private Texture2D _baseTexture;
         private Color[,] _colormap;
+
+        private readonly GraphicsDeviceManager _graphics;
+        private SpriteBatch _spriteBatch;
 
         public MapDrawer()
         {
@@ -28,33 +27,25 @@ namespace MapDrawer
             _graphics.PreferredBackBufferWidth = sizeY * pixelPerY;
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
-        }
 
-        private void initCamera()
-        {
-            //var viewport = new Viewport(0, 0, 0, 0, 0, 1);
-            //GraphicsDevice.Viewport = viewport;
-            //_graphics.ApplyChanges();
+            // Vsynch + Fixed Update aus
+            IsFixedTimeStep = false;
+            _graphics.SynchronizeWithVerticalRetrace = false;
         }
 
         private void initMap()
         {
             _colormap = new Color [sizeX, sizeY];
-            Random r = new Random();
+            var r = new Random();
 
-            for (int x = 0; x < sizeX; x++)
-            {
-                for (int y = 0; y < sizeY; y++)
-                {
-                    _colormap[x, y] = new Color(r.Next(0, 256), r.Next(0, 256), r.Next(0, 256));
-                }
-            }
+            for (var x = 0; x < sizeX; x++)
+            for (var y = 0; y < sizeY; y++)
+                _colormap[x, y] = new Color(r.Next(0, 256), r.Next(0, 256), r.Next(0, 256));
         }
 
         protected override void Initialize()
         {
             initMap();
-            initCamera();
 
             base.Initialize();
         }
@@ -62,11 +53,11 @@ namespace MapDrawer
         protected override void LoadContent()
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
-            
-            
+
+
             _baseTexture = new Texture2D(_spriteBatch.GraphicsDevice, 1, 1);
-            _baseTexture.SetData(new Color[]{ Color.White });
-            
+            _baseTexture.SetData(new[] {Color.White});
+
 
             // TODO: use this.Content to load your game content here
         }
@@ -76,8 +67,8 @@ namespace MapDrawer
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed ||
                 Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
-            
-            MainUpdateManager.Instance.Update();
+
+            UpdateManager.Instance.Update();
 
             base.Update(gameTime);
         }
@@ -85,7 +76,7 @@ namespace MapDrawer
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
-            
+
             _spriteBatch.Begin();
             /*
             for(var x = 0; x < sizeX; x++)
@@ -97,9 +88,9 @@ namespace MapDrawer
                 }
             }
             */
-            
+
             _spriteBatch.End();
-            
+
             // TODO: Add your drawing code here
 
             base.Draw(gameTime);

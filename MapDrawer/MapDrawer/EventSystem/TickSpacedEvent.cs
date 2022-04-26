@@ -1,41 +1,51 @@
 ﻿using System.Collections.Generic;
-using System.Windows.Forms.VisualStyles;
 using MapDrawer.ManagerSystem;
 
 namespace MapDrawer.EventSystem
 {
-    public abstract class TickSpacedEvent : UpdatableEvent
+    public class TickSpacedEvent : UpdatableEvent
     {
-        private readonly long _tickSpacing;
-        private long _lastTick;
+        protected long LastTick;
+        protected long TickSpacing;
+
         public TickSpacedEvent(long tickSpacing)
         {
-            _tickSpacing = tickSpacing;
-            _lastTick = 0;
+            Init(tickSpacing);
         }
 
-        public TickSpacedEvent(Subscriber subscriber, long tickSpacing) : base(subscriber)
+        public TickSpacedEvent(long tickSpacing, Subscriber subscriber) : base(subscriber)
         {
-            _tickSpacing = tickSpacing;
-            _lastTick = 0;
+            Init(tickSpacing);
         }
 
-        public TickSpacedEvent(IEnumerable<Subscriber> subscribers, long tickSpacing) : base(subscribers)
+        public TickSpacedEvent(long tickSpacing, IEnumerable<Subscriber> subscribers) : base(subscribers)
         {
-            _tickSpacing = tickSpacing;
-            _lastTick = 0;
+            Init(tickSpacing);
         }
-        
+
+        private void Init(long tickSpacing)
+        {
+            TickSpacing = tickSpacing;
+            LastTick = TimeManager.Instance.PassedTicks;
+        }
+
+        protected virtual long GetTimeCondition(long lastTick)
+        {
+            return TimeManager.Instance.TicksPassedSince(lastTick);
+        }
+
+        private bool UpdateCondition()
+        {
+            var passed = GetTimeCondition(LastTick);
+            var condition = passed >= TickSpacing;
+            if (condition)
+                LastTick += passed;
+            return condition;
+        }
+
         public override void Update()
         {
-            var passed = TimeManager.Instance.TimePassedSince(_lastTick);
-            if (passed >= _tickSpacing)
-            {
-                TimedUpdate();
-                _lastTick += passed;
-            }
+            if (UpdateCondition()) TriggerSubscribers();
         }
-
-        public abstract void TimedUpdate();
     }
 }
