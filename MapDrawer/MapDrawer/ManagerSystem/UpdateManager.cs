@@ -1,13 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using MapDrawer.CameraSystem;
 using MapDrawer.ControlSystem;
 using MapDrawer.EventSystem;
 using Microsoft.Xna.Framework.Input;
 
 namespace MapDrawer.ManagerSystem
 {
-    public sealed class UpdateManager : IManager, IUpdatable
+    public sealed class UpdateManager : IUpdateManager
     {
         private readonly List<IUpdatable> _updatables;
         private readonly Queue<IUpdatable> _markedForRemoval;
@@ -15,13 +14,13 @@ namespace MapDrawer.ManagerSystem
         static UpdateManager()
         {
             Instance = new UpdateManager();
+            Instance.Init();
         }
 
         private UpdateManager()
         {
             _updatables = new List<IUpdatable>();
             _markedForRemoval = new Queue<IUpdatable>();
-            Init();
         }
 
         public static UpdateManager Instance { get; }
@@ -46,14 +45,17 @@ namespace MapDrawer.ManagerSystem
         private void Init()
         {
             RegisterUpdatable(TimeManager.Instance);
-            UpdatableEvent action = new KeyAction(Keys.Enter, ActionType.KeyDown);
-            action.AddSubscriber(triggeredBy => { LoggingManager.Instance.Info("Hello Enter!"); });
-            RegisterUpdatable(action);
+            InitUpdatables();
+        }
+        
+        private void InitUpdatables()
+        {
+            UpdatableEvent action = new KeyAction(Keys.Enter, ActionType.KeyDown, 
+                triggeredBy => { LoggingManager.Instance.Info("Hello Enter!"); });
 
             var spacedEvent = new TimeSpacedEvent(5000,
                 triggeredBy =>
                     LoggingManager.Instance.Info("This Message should be shown every 5000ms!"));
-            RegisterUpdatable(spacedEvent);
 
             var timeEvent = new TimeEvent(5000,
                 triggeredBy =>
@@ -63,7 +65,6 @@ namespace MapDrawer.ManagerSystem
                     MarkRemovableForRemoval(instance);
                     LoggingManager.Instance.Info("Bye Time Event!");
                 });
-            RegisterUpdatable(timeEvent);
             
             var tickEvent = new TickEvent(10,
                 triggeredBy =>
@@ -73,7 +74,6 @@ namespace MapDrawer.ManagerSystem
                     MarkRemovableForRemoval(instance);
                     LoggingManager.Instance.Info("Bye Tick Event!");
                 });
-            RegisterUpdatable(tickEvent);
         }
 
         public void RegisterUpdatable(IUpdatable updatable)

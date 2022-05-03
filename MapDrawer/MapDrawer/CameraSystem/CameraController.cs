@@ -16,48 +16,50 @@ namespace MapDrawer.CameraSystem
             Camera2D = new Camera2D
             {
                 Zoom = 4.0f,
-                Position = new Vector2(100, 100)
+                Position = new Vector2(-100, -100)
             };
 
             _moveSpeed = moveSpeed;
 
             KeyAction left = new KeyAction(Keys.Left, ActionType.KeyHold, (s) =>
             {
-                Camera2D.Move(new Vector2(_moveSpeed * SimulationManager.Instance.CalculateUpdateTimeFactor(), 0));
+                Camera2D.Move(new Vector2(CalculateMoveSpeed(), 0));
             });
-            UpdateManager.Instance.RegisterUpdatable(left);
             
             KeyAction right = new KeyAction(Keys.Right, ActionType.KeyHold, (s) =>
             {
-                Camera2D.Move(new Vector2(-_moveSpeed * SimulationManager.Instance.CalculateUpdateTimeFactor(), 0));
+                Camera2D.Move(new Vector2(-CalculateMoveSpeed(), 0));
             });
-            UpdateManager.Instance.RegisterUpdatable(right);
             
             KeyAction up = new KeyAction(Keys.Up, ActionType.KeyHold, (s) =>
             {
-                Camera2D.Move(new Vector2(0, _moveSpeed * SimulationManager.Instance.CalculateUpdateTimeFactor()));
+                Camera2D.Move(new Vector2(0, CalculateMoveSpeed()));
             });
-            UpdateManager.Instance.RegisterUpdatable(up);
             
             KeyAction down = new KeyAction(Keys.Down, ActionType.KeyHold, (s) =>
             {
-                Camera2D.Move(new Vector2(0, -_moveSpeed * SimulationManager.Instance.CalculateUpdateTimeFactor()));
+                Camera2D.Move(new Vector2(0, -CalculateMoveSpeed()));
             });
-            UpdateManager.Instance.RegisterUpdatable(down);
             
-            KeyAction zoomDown = new KeyAction(Keys.OemPlus, ActionType.KeyDown, (s) =>
+            KeyAction zoomDown = new KeyAction(Keys.OemPlus, ActionType.KeyHold, (s) =>
             {
-                Camera2D.Zoom += 0.1f;
+                Camera2D.Zoom += CalculateZoomSpeed();
             });
-            UpdateManager.Instance.RegisterUpdatable(zoomDown);
             
-            KeyAction zoomUp = new KeyAction(Keys.OemMinus, ActionType.KeyDown, (s) =>
+            KeyAction zoomUp = new KeyAction(Keys.OemMinus, ActionType.KeyHold, (s) =>
             {
-                Camera2D.Zoom -= 0.1f;
+                Camera2D.Zoom -= CalculateZoomSpeed();
             });
-            UpdateManager.Instance.RegisterUpdatable(zoomUp);
         }
-        
-        
+
+        private float CalculateMoveSpeed()
+        {
+            return (10.0f/Camera2D.Zoom) * _moveSpeed * SimulationManager.Instance.CalculateUpdateTimeFactor();
+        }
+
+        private float CalculateZoomSpeed()
+        {
+            return 0.1f;
+        }
     }
 }

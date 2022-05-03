@@ -7,7 +7,7 @@ namespace MapDrawer.EventSystem
     {
         private long _atTick;
         private OnRemoval _managedRemoval;
-        private bool _triggered = false;
+        private bool _triggered;
 
         public TickEvent(long atTick, OnRemoval managedRemoval = null)
         {

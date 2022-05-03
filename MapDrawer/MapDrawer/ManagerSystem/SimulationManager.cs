@@ -5,6 +5,7 @@ namespace MapDrawer.ManagerSystem
 {
     public class SimulationManager : IManager
     {
+        private const float UpdateTimeFactor = 50.0f;
         public static SimulationManager Instance { get; }
         public CameraController CameraController { get;  }
 
@@ -20,7 +21,7 @@ namespace MapDrawer.ManagerSystem
 
         public float CalculateUpdateTimeFactor()
         {
-            return TimeManager.Instance.LastUpdateDuration / 50.0f;
+            return TimeManager.Instance.LastUpdateDuration / UpdateTimeFactor;
         }
     }
 }
