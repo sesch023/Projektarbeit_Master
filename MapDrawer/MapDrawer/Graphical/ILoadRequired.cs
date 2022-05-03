@@ -1,7 +1,9 @@
-﻿namespace MapDrawer.Graphical
+﻿using Microsoft.Xna.Framework.Graphics;
+
+namespace MapDrawer.Graphical
 {
     public interface ILoadRequired
     {
-        public void LoadContent();
+        public void LoadContent(SpriteBatch spriteBatch);
     }
 }

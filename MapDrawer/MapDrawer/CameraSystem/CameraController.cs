@@ -21,32 +21,33 @@ namespace MapDrawer.CameraSystem
 
             _moveSpeed = moveSpeed;
 
-            KeyAction left = new KeyAction(Keys.Left, ActionType.KeyHold, (s) =>
+            KeyboardAction left = new KeyboardAction(Keys.Left, ActionType.KeyHold, (s) =>
             {
                 Camera2D.Move(new Vector2(CalculateMoveSpeed(), 0));
             });
             
-            KeyAction right = new KeyAction(Keys.Right, ActionType.KeyHold, (s) =>
+            KeyboardAction right = new KeyboardAction(Keys.Right, ActionType.KeyHold, (s) =>
             {
                 Camera2D.Move(new Vector2(-CalculateMoveSpeed(), 0));
             });
             
-            KeyAction up = new KeyAction(Keys.Up, ActionType.KeyHold, (s) =>
+            KeyboardAction up = new KeyboardAction(Keys.Up, ActionType.KeyHold, (s) =>
             {
                 Camera2D.Move(new Vector2(0, CalculateMoveSpeed()));
             });
             
-            KeyAction down = new KeyAction(Keys.Down, ActionType.KeyHold, (s) =>
+            KeyboardAction down = new KeyboardAction(Keys.Down, ActionType.KeyHold, (s) =>
             {
                 Camera2D.Move(new Vector2(0, -CalculateMoveSpeed()));
             });
             
-            KeyAction zoomDown = new KeyAction(Keys.OemPlus, ActionType.KeyHold, (s) =>
+            //TODO: Clamp Zoom, Change Zoom Speed on level
+            KeyboardAction zoomDown = new KeyboardAction(Keys.OemPlus, ActionType.KeyHold, (s) =>
             {
                 Camera2D.Zoom += CalculateZoomSpeed();
             });
             
-            KeyAction zoomUp = new KeyAction(Keys.OemMinus, ActionType.KeyHold, (s) =>
+            KeyboardAction zoomUp = new KeyboardAction(Keys.OemMinus, ActionType.KeyHold, (s) =>
             {
                 Camera2D.Zoom -= CalculateZoomSpeed();
             });
@@ -59,7 +60,7 @@ namespace MapDrawer.CameraSystem
 
         private float CalculateZoomSpeed()
         {
-            return 0.1f;
+            return 0.1f * SimulationManager.Instance.CalculateUpdateTimeFactor();
         }
     }
 }

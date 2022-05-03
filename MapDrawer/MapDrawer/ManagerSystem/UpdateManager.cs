@@ -50,7 +50,7 @@ namespace MapDrawer.ManagerSystem
         
         private void InitUpdatables()
         {
-            UpdatableEvent action = new KeyAction(Keys.Enter, ActionType.KeyDown, 
+            UpdatableEvent action = new KeyboardAction(Keys.Enter, ActionType.KeyDown, 
                 triggeredBy => { LoggingManager.Instance.Info("Hello Enter!"); });
 
             var spacedEvent = new TimeSpacedEvent(5000,

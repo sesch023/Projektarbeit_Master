@@ -22,7 +22,7 @@ namespace MapDrawer.ManagerSystem
 
         public override string ToString()
         {
-            return base.ToString() + ", Average MS per Tick: " + _mavg.Average + ", Target Tick Time: " + 1000.0 / Tps;
+            return base.ToString() + ", Average MS per Tick: " + $"{_mavg.Average:0.00}" + ", Target Tick Time: " + 1000.0 / Tps;
         }
     }
 }

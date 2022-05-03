@@ -17,9 +17,9 @@ namespace MapDrawer.EventSystem
         {
         }
 
-        protected override long GetTimeCondition(long lastTick)
+        protected override long GetTimeCondition(long lastTime)
         {
-            return TimeManager.Instance.TimePassedSince(lastTick);
+            return TimeManager.Instance.TimePassedSince(lastTime);
         }
     }
 }

@@ -1,7 +1,9 @@
-﻿namespace MapDrawer.Graphical
+﻿using Microsoft.Xna.Framework.Graphics;
+
+namespace MapDrawer.Graphical
 {
     public interface IDrawable
     {
-        public void Draw();
+        public void Draw(SpriteBatch spriteBatch);
     }
 }
