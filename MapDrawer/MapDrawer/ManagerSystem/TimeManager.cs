@@ -11,7 +11,7 @@ namespace MapDrawer.ManagerSystem
 
         private readonly Stopwatch _timer;
 
-        private uint _tps = 1;
+        private uint _tps = 100;
 
         private long _tpsDeltaMilli;
 

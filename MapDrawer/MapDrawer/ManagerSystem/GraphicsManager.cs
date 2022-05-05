@@ -13,34 +13,31 @@ namespace MapDrawer.ManagerSystem
         private readonly List<IDrawable> _drawables;
         private readonly List<ILoadRequired> _loadRequireds;
 
-        private Texture2D _globeTexture;
+        public SpriteBatch SpriteBatch { get; private set; }
 
         public static GraphicsManager Instance { get; }
 
         static GraphicsManager()
         {
             Instance = new GraphicsManager();
+            Instance.Init();
         }
 
         private GraphicsManager()
         {
             _drawables = new List<IDrawable>();
             _loadRequireds = new List<ILoadRequired>();
-            Init();
         }
 
         private void Init()
         {
-            TestMap testmap = new TestMap();
-            AddLoadRequired(testmap);
-            AddDrawable(testmap);
+            Globe testglobe = new Globe();
+            AddDrawable(testglobe);
         }
 
         public void LoadContent(SpriteBatch spriteBatch)
         {
-            _globeTexture = new Texture2D(spriteBatch.GraphicsDevice, 1, 1);
-            _globeTexture.SetData(new[] {Color.White});
-            
+            SpriteBatch = spriteBatch;
             foreach (var variableUpdatable in _loadRequireds.ToList()) variableUpdatable.LoadContent(spriteBatch);
         }
         
@@ -75,11 +72,6 @@ namespace MapDrawer.ManagerSystem
         public void RemoveLoadRequired(ILoadRequired load)
         {  
             _loadRequireds.Remove(load);
-        }
-
-        public Texture2D GetGlobeTileTexture(GlobePosition globePosition)
-        {
-            return _globeTexture;
         }
     }
 }

@@ -5,8 +5,10 @@ namespace MapDrawer.Util
     // https://wiki.openstreetmap.org/wiki/Mercator#C#_implementation
     public static class MercatorProjection
     {
-        private const double RMajor = 6378137.0;
-        private const double RMinor = 6356752.3142;
+        //private const double RMajor = 6378137.0;
+        //private const double RMinor = 6356752.3142;
+        private const double RMajor = 100.0;
+        private const double RMinor = 100.0;
         private const double Ratio = RMinor / RMajor;
         private static readonly double Eccent = Math.Sqrt(1.0 - Ratio * Ratio);
         private static readonly double Com = 0.5 * Eccent;

@@ -1,14 +1,16 @@
 ﻿using System;
 using MapDrawer.EventSystem;
+using MapDrawer.ManagerSystem;
 using Microsoft.Xna.Framework;
 using IDrawable = MapDrawer.Graphical.IDrawable;
 using Microsoft.Xna.Framework.Graphics;
 
 namespace MapDrawer.MapSystem
 {
-    public class GlobeTile : IDrawable, IUpdatable
+    public class GlobeTile : IUpdatable
     {
-        public GlobePosition GlobePosition { get; set; }
+        public GlobePosition GlobePosition { get; }
+        public GlobeTexture GlobeTexture { get; }
         
         public int Temperature { get; set; }
 
@@ -18,23 +20,23 @@ namespace MapDrawer.MapSystem
             get => _humidity;
             set => _humidity = Math.Clamp(value, 0, 100);
         }
-
-        public GlobeTile(GlobePosition globePosition, int temperature, float humidity)
+        
+        public GlobeTile(GlobePosition globePosition, int temperature, float humidity, GlobeTexture globeTexture = null, 
+            float longitudeTileStep=0.5f)
         {
             _humidity = humidity;
             GlobePosition = globePosition;
             Temperature = temperature;
-        }
-
-        public void Draw(SpriteBatch spriteBatch)
-        {
-            //TODO: Implement Globe Tile Draw By Doing a Mercator Projection
-            throw new System.NotImplementedException();
+            if (globeTexture == null)
+            {
+                globeTexture = new GlobeTexture(this, null, longitudeTileStep);
+                GraphicsManager.Instance.AddLoadRequired(globeTexture);
+            }
+            GlobeTexture = globeTexture;
         }
 
         public void Update()
         {
-            throw new System.NotImplementedException();
         }
     }
 }
