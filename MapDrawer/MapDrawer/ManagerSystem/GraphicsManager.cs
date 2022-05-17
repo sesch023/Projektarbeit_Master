@@ -31,7 +31,7 @@ namespace MapDrawer.ManagerSystem
 
         private void Init()
         {
-            Globe testglobe = new Globe();
+            PlaneGlobe testglobe = new PlaneGlobe();
             AddDrawable(testglobe);
         }
 

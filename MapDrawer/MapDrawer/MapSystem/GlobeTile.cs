@@ -10,7 +10,7 @@ namespace MapDrawer.MapSystem
     public class GlobeTile : IUpdatable
     {
         public GlobePosition GlobePosition { get; }
-        public GlobeTexture GlobeTexture { get; }
+        public GlobeTexture GlobeTexture { get; set; }
         
         public int Temperature { get; set; }
 
@@ -21,18 +21,13 @@ namespace MapDrawer.MapSystem
             set => _humidity = Math.Clamp(value, 0, 100);
         }
         
-        public GlobeTile(GlobePosition globePosition, int temperature, float humidity, GlobeTexture globeTexture = null, 
-            float longitudeTileStep=0.5f)
+        public GlobeTile(PlaneGlobe planeGlobe, GlobePosition globePosition, int temperature, float humidity)
         {
             _humidity = humidity;
             GlobePosition = globePosition;
             Temperature = temperature;
-            if (globeTexture == null)
-            {
-                globeTexture = new GlobeTexture(this, null, longitudeTileStep);
-                GraphicsManager.Instance.AddLoadRequired(globeTexture);
-            }
-            GlobeTexture = globeTexture;
+            GlobeTexture = new GlobeTexture(planeGlobe, this, null);
+            GraphicsManager.Instance.AddLoadRequired(GlobeTexture);
         }
 
         public void Update()

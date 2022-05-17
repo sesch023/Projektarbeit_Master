@@ -10,8 +10,8 @@ namespace MapDrawer.MapSystem
 {
     public class GlobeTexture : IDrawable, ILoadRequired
     {
-        private const int PixelPerLatitude = 20;
-        private const int PixelPerLongitude = 10;
+        private const int UnitsPerLatitude = 10;
+        private const int UnitsPerLongitude = 10;
         
         private static Texture2D _globeDefaultTexture;
         
@@ -27,38 +27,50 @@ namespace MapDrawer.MapSystem
         
         private Texture2D GetGlobeTexture(GlobeTile globeTile)
         {
-            return GetGlobeDefaultTileTexture();
+            Texture2D texture2D;
+            if (MathUtil.AlmostEquals(globeTile.GlobePosition.Longitude, 0.0f, 0.1f) 
+                || MathUtil.AlmostEquals(globeTile.GlobePosition.Latitude, 0.0f, 0.1f))
+            {
+                Console.WriteLine(globeTile.GlobePosition.Longitude);
+                Console.WriteLine(globeTile.GlobePosition.Latitude);
+                texture2D = new Texture2D(GraphicsManager.Instance.SpriteBatch.GraphicsDevice, 1, 1);
+                texture2D.SetData(new[] {Color.Red});
+            }
+            else
+            {
+                texture2D = GetGlobeDefaultTileTexture();
+            }
+
+            return texture2D;
         }
-        
+
+        private PlaneGlobe _planeGlobe;
         private GlobeTile _globeTile;
         private Rectangle _drawingRectangle;
         private Texture2D _texture2D;
-        private Color _random;
 
-        public GlobeTexture(GlobeTile globeTile, Texture2D texture2D = null, float longitudeTileStep=0.5f)
+        public GlobeTexture(PlaneGlobe planeGlobe, GlobeTile globeTile, Texture2D texture2D = null)
         {
             _texture2D = texture2D;
+            _planeGlobe = planeGlobe;
             _globeTile = globeTile;
-            var r = new Random();
-            _random = new Color(r.Next(0, 256), r.Next(0, 256), r.Next(0, 256));
-            CalculateDrawingRectangle(longitudeTileStep);
+            CalculateDrawingRectangle();
         }
 
-        private void CalculateDrawingRectangle(float longitudeTileStep=0.5f)
+        private void CalculateDrawingRectangle()
         {
-            double y = MercatorProjection.LatToY(_globeTile.GlobePosition.Latitude);
             _drawingRectangle = new Rectangle
             {
-                X = (int)(MercatorProjection.LonToX(_globeTile.GlobePosition.Longitude) * PixelPerLatitude),
-                Y = (int)y * PixelPerLongitude,
-                Width = PixelPerLatitude,
-                Height = (int)(PixelPerLongitude*(MercatorProjection.LatToY(_globeTile.GlobePosition.Latitude+longitudeTileStep)-y+longitudeTileStep))
+                X = (int)(_globeTile.GlobePosition.Latitude * UnitsPerLatitude),
+                Y = (int)(_globeTile.GlobePosition.Longitude * UnitsPerLongitude),
+                Width = UnitsPerLatitude,
+                Height = UnitsPerLongitude
             };
         }
 
         public void Draw(SpriteBatch spriteBatch)
         {
-            spriteBatch.Draw(_texture2D, _drawingRectangle, _random);
+            spriteBatch.Draw(_texture2D, _drawingRectangle, Color.White);
         }
 
         public void LoadContent(SpriteBatch spriteBatch)
